@@ -38,7 +38,7 @@
 
 <collection unicode="U+20">
 	<selected id="0"/>
-	<glyph id="0" left="-27.42987500000033" right="-6.4298750000003295">
+	<glyph id="0" left="-27.42987500000033" right="-7.4298750000003295">
 		<layer name= "Layer" visible="true">
 		</layer>
 	</glyph>
