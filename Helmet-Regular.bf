@@ -9,7 +9,7 @@
 <italic>false</italic>
 <full_name>Helmet Regular</full_name>
 <unique_identifier>Helmet-Regular</unique_identifier>
-<version>1.0</version>
+<version>0.0</version>
 <description></description>
 <copyright>Copyright (c) 2017, Carl Enlund</copyright>
 <license>The Font Software is licensed under the SIL Open Font License, Version 1.1.</license>
