@@ -4,6 +4,8 @@ Helmet is a neo-grotesque display typeface, currently with a single font. It tak
 
 Helmet is designed in the lesser-known open source font editor [Birdfont](https://birdfont.org/). Birdfont is far from perfect but has worked out all right for this single-font typeface.
 
+Feel free to [submit an issue](https://github.com/carlenlund/helmet/issues/new) for feature requests or if you find any errors.
+
 **[Download latest release](https://github.com/carlenlund/helmet/releases/download/0.0/helmet-0.0.zip)**
 
 ![Helmet](images/helmet.png)
