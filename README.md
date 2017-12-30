@@ -6,7 +6,7 @@ Helmet is designed in the lesser-known open source font editor [Birdfont](https:
 
 Feel free to [submit an issue](https://github.com/carlenlund/helmet/issues/new) for feature requests or if you find any errors.
 
-**[Download latest release](https://github.com/carlenlund/helmet/releases/download/0.1/helmet-0.1.zip)**
+**[Download latest release](https://github.com/carlenlund/helmet/releases)**
 
 ![Helmet](images/helmet.png)
 
