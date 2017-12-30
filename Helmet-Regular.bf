@@ -61,7 +61,7 @@
 
 <collection unicode="U+22">
 	<selected id="1"/>
-	<glyph id="1" left="-29" right="10">
+	<glyph id="1" left="-29.5" right="10.5">
 		<layer name= "Layer" visible="true">
 			<path data="S -22.0000000000,34.0000000000 L -24.0000000000,56.5000000000 L -12.5000000000,56.5000000000 L -14.5000000000,34.0000000000 L -22.0000000000,34.0000000000" />
 			<path data="S -4.5000000000,34.0000000000 L -6.5000000000,56.5000000000 L 5.0000000000,56.5000000000 L 3.0000000000,34.0000000000 L -4.5000000000,34.0000000000" />
@@ -115,7 +115,7 @@
 
 <collection unicode="U+27">
 	<selected id="1"/>
-	<glyph id="1" left="-28.5" right="-8">
+	<glyph id="1" left="-29.5" right="-7">
 		<layer name= "Layer" visible="true">
 			<path data="S -22.0000000000,34.0000000000 L -24.0000000000,56.5000000000 L -12.5000000000,56.5000000000 L -14.5000000000,34.0000000000 L -22.0000000000,34.0000000000" />
 		</layer>
@@ -198,10 +198,15 @@
 </collection>
 
 <collection unicode="U+2d">
-	<selected id="1"/>
+	<selected id="2"/>
 	<glyph id="1" left="-19" right="20">
 		<layer name= "Layer" visible="true">
 			<path data="S -14.0000000000,29.0000000000 L 15.0000000000,29.0000000000 L 15.0000000000,21.5000000000 L -14.0000000000,21.5000000000 L -14.0000000000,29.0000000000" />
+		</layer>
+	</glyph>
+	<glyph id="2" left="-19" right="20">
+		<layer name= "Layer" visible="true">
+			<path data="S -14.0000000000,29.7500000000 L 15.0000000000,29.7500000000 L 15.0000000000,21.7500000000 L -14.0000000000,21.7500000000 L -14.0000000000,29.7500000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -472,7 +477,7 @@
 
 <collection unicode="U+3b">
 	<selected id="1"/>
-	<glyph id="1" left="-16.401335045099998" right="10.0986649549">
+	<glyph id="1" left="-16.151335045099998" right="10.0986649549">
 		<layer name= "Layer" visible="true">
 			<path data="S -1.9013350451,32.5000000000 D -4.9013350451,32.5000000000 -8.4013350451,36.0000000000 -8.4013350451,38.7500000000 T D -8.4013350451,41.5000000000 -4.9013350451,45.0000000000 -1.9013350451,45.0000000000 T D 1.0986649549,45.0000000000 4.5986649549,41.5000000000 4.5986649549,38.7500000000 D 4.5986649549,36.0000000000 1.0986649549,32.5000000000 -1.9013350451,32.5000000000 T" />
 			<path data="S -10.9013350451,-10.5000000000 L -6.9013350451,12.0000000000 L 4.5986649549,12.0000000000 L -3.4013350451,-10.5000000000 L -10.9013350451,-10.5000000000" />
@@ -561,7 +566,7 @@
 			<path data="S 17.0000000000,37.0000000000 D 17.0000000000,42.0000000000 11.0000000000,46.0000000000 5.5000000000,46.0000000000 T D 2.1556508343,46.0000000000 -8.0000000000,46.0000000000 -12.0000000000,46.0000000000 D -12.0000000000,39.9552238806 -12.0247732729,34.4989254346 -12.0000000000,28.0000000000 D -8.0000000000,28.0000000000 1.7500000000,28.0000000000 5.5000000000,28.0000000000 D 11.0000000000,28.0000000000 17.0000000000,32.0000000000 17.0000000000,37.0000000000 T" />
 		</layer>
 	</glyph>
-	<glyph id="2" left="-29" right="30.5">
+	<glyph id="2" left="-29" right="30.25">
 		<layer name= "Layer" visible="true">
 			<path data="S 26.5000000000,15.5000000000 D 26.5000000000,8.0000000000 15.2500000000,0.0000000000 4.5000000000,0.0000000000 T D -7.5000000000,0.0000000000 -19.0000000000,0.0000000000 -22.0000000000,0.0000000000 D -22.0000000000,1.9600000000 -22.0000000000,54.0000000000 -22.0000000000,54.0000000000 D -21.3932926829,54.0000000000 -4.0000000000,54.0000000000 3.5000000000,54.0000000000 D 13.5000000000,54.0000000000 24.0000000000,45.5000000000 24.0000000000,38.5000000000 D 24.0000000000,35.8360655738 21.0690197210,30.0000000000 17.0690197210,27.7500000000 D 17.0690197210,27.7500000000 17.0690197210,27.7500000000 17.0690197210,27.7500000000 D 21.8190197210,25.7500000000 26.5000000000,19.6689853527 26.5000000000,15.5000000000 T" />
 			<path data="S 5.0000000000,23.7500000000 D 1.2500000000,23.7500000000 -8.0000000000,23.7500000000 -12.0000000000,23.7500000000 D -12.0247732729,17.2510745654 -12.0000000000,14.0447761194 -12.0000000000,8.0000000000 D -8.0000000000,8.0000000000 1.6556508343,8.0000000000 5.0000000000,8.0000000000 T D 10.5000000000,8.0000000000 16.0000000000,11.5990081703 16.0000000000,15.5990081703 T D 16.0000000000,19.5990081703 10.5000000000,23.7500000000 5.0000000000,23.7500000000" />
@@ -605,7 +610,7 @@
 			<path data="S -25.0000000000,8.0000000000 L 19.0000000000,8.0000000000 L 19.0000000000,0.0000000000 L -25.0000000000,0.0000000000 L -25.0000000000,8.0000000000" />
 		</layer>
 	</glyph>
-	<glyph id="2" left="-32" right="24">
+	<glyph id="2" left="-32" right="23.5">
 		<layer name= "Layer" visible="true">
 			<path data="S -25.0000000000,0.0000000000 L -25.0000000000,54.0000000000 L -15.0000000000,54.0000000000 L -15.0000000000,0.0000000000 L -25.0000000000,0.0000000000" />
 			<path data="S -15.0000000000,54.0000000000 L 19.0000000000,54.0000000000 L 19.0000000000,46.0000000000 L -15.0000000000,46.0000000000 L -15.5000000000,49.9472765349 L -15.0000000000,54.0000000000" />
@@ -630,8 +635,8 @@
 	<selected id="1"/>
 	<glyph id="1" left="-31.75" right="32.802377816335763">
 		<layer name= "Layer" visible="true">
-			<path data="S 16.8513047059,37.0000000000 D 15.7339083563,40.8146249241 7.8113301479,47.2081637949 0.8130881421,47.2500000000 D -7.1535033790,47.2500000000 -17.2500000000,36.0000000000 -17.2500000000,27.0000000000 D -17.2500000000,18.0000000000 -7.0000000000,6.7500000000 1.0000000000,6.7500000000 D 8.7016797975,6.7500000000 18.0393329507,15.3954556761 19.0952443471,21.1236408668 D 20.0952443471,21.1236408668 21.8664723433,21.1305588882 24.8452443471,21.1236408668 D 24.8452443471,14.0672906871 12.7156968109,-1.5000000000 0.8603735060,-1.5000000000 T D -11.7507242188,-1.5000000000 -27.7500000000,15.0000000000 -27.7500000000,27.0000000000 T D -27.7500000000,39.0000000000 -11.7502351137,55.5000000000 0.8130881421,55.5000000000 T D 11.4022941686,55.5000000000 25.2454307323,44.1958960984 26.6596728526,37.0000000000 L 16.8513047059,37.0000000000" />
-			<path data="S 20.1170704957,0.0000000000 L 19.2550345327,10.0000000000 L 19.2550345327,21.0000000000 L -0.4831649034,21.0000000000 L -0.4831649034,28.5000000000 D 12.0043350966,28.5000000000 22.7523778163,28.5000000000 27.3023778163,28.5000000000 L 27.3023778163,0.0000000000 L 20.1170704957,0.0000000000" />
+			<path data="S 16.8513047059,37.0000000000 D 15.7339083563,40.8146249241 7.8113301479,47.2081637949 0.8130881421,47.2500000000 D -7.1535033790,47.2500000000 -17.2500000000,36.0000000000 -17.2500000000,27.0000000000 D -17.2500000000,18.0000000000 -7.0000000000,6.7500000000 1.0000000000,6.7500000000 D 8.7016797975,6.7500000000 18.0393329507,15.3954556761 19.0952443471,21.1236408668 D 20.0952443471,21.1236408668 21.8664723433,21.1305588882 24.8452443471,21.1236408668 D 24.8452443471,14.0672906871 12.7534709393,-1.5000000000 1.0462431608,-1.5000000000 T D -11.7037054504,-1.5000000000 -27.7500000000,15.0000000000 -27.7500000000,27.0000000000 T D -27.7500000000,39.0000000000 -11.7502351137,55.5000000000 0.8130881421,55.5000000000 T D 11.4022941686,55.5000000000 25.2454307323,44.1958960984 26.6596728526,37.0000000000 L 16.8513047059,37.0000000000" />
+			<path data="S 19.8746138653,0.0000000000 L 19.0125779023,10.0000000000 L 19.2550345327,21.0000000000 L -0.4831649034,21.0000000000 L -0.4831649034,28.5000000000 D 12.0043350966,28.5000000000 22.7523778163,28.5000000000 27.3023778163,28.5000000000 L 27.3023778163,0.0000000000 L 19.8746138653,0.0000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -689,7 +694,7 @@
 
 <collection unicode="U+4b">
 	<selected id="1"/>
-	<glyph id="1" left="-33" right="29.75">
+	<glyph id="1" left="-33" right="29.5">
 		<layer name= "Layer" visible="true">
 			<path data="S -26.0000000000,0.0000000000 L -26.0000000000,54.0000000000 D -26.0000000000,54.0000000000 -16.0000000000,54.0000000000 -16.0000000000,54.0000000000 L -16.0000000000,0.0000000000 L -26.0000000000,0.0000000000" />
 			<path data="S 16.1791556127,0.0000000000 L -6.4179317659,30.9271844660 L 3.0000000000,34.5000000000 L 28.5000000000,0.0000000000 L 16.1791556127,0.0000000000" />
@@ -730,10 +735,10 @@
 	</glyph>
 	<glyph id="3" left="-38.457421074000003" right="41.54257892599999">
 		<layer name= "Layer" visible="true">
-			<path data="S -16.4288231708,54.0000000000 L 6.0977318008,1.0000000000 L 6.1294065338,0.0000000000 L -2.2833119087,0.0000000000 L -26.3098668804,54.0000000000 L -16.4288231708,54.0000000000" />
-			<path data="S 29.3077431748,54.0000000000 L 6.1294065338,0.0000000000 L -2.2833119087,0.0000000000 L -2.1643556182,1.0000000000 L 19.6392808795,54.0000000000 L 29.3077431748,54.0000000000" />
-			<path data="S -31.4574210740,0.0000000000 L -31.4574210740,54.0000000000 L -22.2074210740,54.0000000000 L -21.4574210740,21.3791535679 L -21.4574210740,0.0000000000 L -31.4574210740,0.0000000000" />
-			<path data="S 24.5425789260,0.0000000000 L 24.5425789260,21.4295758234 L 25.2925789260,54.0000000000 L 34.5425789260,54.0000000000 L 34.5425789260,0.0000000000 L 24.5425789260,0.0000000000" />
+			<path data="S -16.4288231708,54.0000000000 L 6.0379589377,1.0000000000 L 6.0696336707,0.0000000000 L -2.3430847718,0.0000000000 L -26.3098668804,54.0000000000 L -16.4288231708,54.0000000000" />
+			<path data="S 29.3077431748,54.0000000000 L 6.0696336707,0.0000000000 L -2.3430847718,0.0000000000 L -2.2241284813,1.0000000000 L 19.6392808795,54.0000000000 L 29.3077431748,54.0000000000" />
+			<path data="S -31.4574210740,0.0000000000 L -31.4574210740,54.0000000000 L -22.2074210740,54.0000000000 L -21.4574210740,20.7814249367 L -21.4574210740,0.0000000000 L -31.4574210740,0.0000000000" />
+			<path data="S 24.5425789260,0.0000000000 L 24.5425789260,20.8318471922 L 25.2925789260,54.0000000000 L 34.5425789260,54.0000000000 L 34.5425789260,0.0000000000 L 24.5425789260,0.0000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -744,7 +749,7 @@
 		<layer name= "Layer" visible="true">
 			<path data="S -26.0000000000,0.0000000000 L -26.0000000000,54.0000000000 D -26.0000000000,54.0000000000 -16.0000000000,54.0000000000 -16.0000000000,54.0000000000 L -16.0000000000,0.0000000000 L -26.0000000000,0.0000000000" />
 			<path data="S 18.0000000000,0.0000000000 L 18.0000000000,54.0000000000 D 20.5000000000,54.0000000000 27.9990000000,54.0000000000 28.0000000000,54.0000000000 L 28.0000000000,0.0000000000 L 18.0000000000,0.0000000000" />
-			<path data="S 16.0000000000,0.0000000000 L -24.5000000000,54.0000000000 D -24.5000000000,54.0000000000 -16.0000000000,54.0000000000 -14.0000000000,54.0000000000 L 26.5000000000,0.0000000000 L 16.0000000000,0.0000000000" />
+			<path data="S 16.5000000000,0.0000000000 L -25.2500000000,54.0000000000 D -25.2500000000,54.0000000000 -16.5000000000,54.0000000000 -14.5000000000,54.0000000000 L 27.2500000000,0.0000000000 L 16.5000000000,0.0000000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -2566,15 +2571,6 @@
 	</glyph>
 </collection>
 
-<collection unicode="U+ad">
-	<selected id="1"/>
-	<glyph id="1" left="-19" right="20">
-		<layer name= "Layer" visible="true">
-			<path data="S -14.0000000000,29.5000000000 L 15.0000000000,29.5000000000 L 15.0000000000,22.0000000000 L -14.0000000000,22.0000000000 L -14.0000000000,29.5000000000" />
-		</layer>
-	</glyph>
-</collection>
-
 <collection unicode="U+ae">
 	<selected id="1"/>
 	<glyph id="1" left="-33.5" right="31">
@@ -2813,7 +2809,7 @@
 
 <collection unicode="U+c8">
 	<selected id="1"/>
-	<glyph id="1" left="-32" right="24">
+	<glyph id="1" left="-32" right="23.5">
 		<layer name= "Layer" visible="true">
 			<path data="S -25.0000000000,0.0000000000 L -25.0000000000,54.0000000000 L -15.0000000000,54.0000000000 L -15.0000000000,0.0000000000 L -25.0000000000,0.0000000000" />
 			<path data="S -15.0000000000,54.0000000000 L 19.0000000000,54.0000000000 L 19.0000000000,46.0000000000 L -15.0000000000,46.0000000000 L -15.5000000000,49.9472765349 L -15.0000000000,54.0000000000" />
@@ -2826,7 +2822,7 @@
 
 <collection unicode="U+c9">
 	<selected id="1"/>
-	<glyph id="1" left="-32" right="24">
+	<glyph id="1" left="-32" right="23.5">
 		<layer name= "Layer" visible="true">
 			<path data="S -25.0000000000,0.0000000000 L -25.0000000000,54.0000000000 L -15.0000000000,54.0000000000 L -15.0000000000,0.0000000000 L -25.0000000000,0.0000000000" />
 			<path data="S -15.0000000000,54.0000000000 L 19.0000000000,54.0000000000 L 19.0000000000,46.0000000000 L -15.0000000000,46.0000000000 L -15.5000000000,49.9472765349 L -15.0000000000,54.0000000000" />
@@ -2839,7 +2835,7 @@
 
 <collection unicode="U+ca">
 	<selected id="1"/>
-	<glyph id="1" left="-32" right="24">
+	<glyph id="1" left="-32" right="23.5">
 		<layer name= "Layer" visible="true">
 			<path data="S -25.0000000000,0.0000000000 L -25.0000000000,54.0000000000 L -15.0000000000,54.0000000000 L -15.0000000000,0.0000000000 L -25.0000000000,0.0000000000" />
 			<path data="S -15.0000000000,54.0000000000 L 19.0000000000,54.0000000000 L 19.0000000000,46.0000000000 L -15.0000000000,46.0000000000 L -15.5000000000,49.9472765349 L -15.0000000000,54.0000000000" />
@@ -2853,7 +2849,7 @@
 
 <collection unicode="U+cb">
 	<selected id="1"/>
-	<glyph id="1" left="-32" right="24">
+	<glyph id="1" left="-32" right="23.5">
 		<layer name= "Layer" visible="true">
 			<path data="S -25.0000000000,0.0000000000 L -25.0000000000,54.0000000000 L -15.0000000000,54.0000000000 L -15.0000000000,0.0000000000 L -25.0000000000,0.0000000000" />
 			<path data="S -15.0000000000,54.0000000000 L 19.0000000000,54.0000000000 L 19.0000000000,46.0000000000 L -15.0000000000,46.0000000000 L -15.5000000000,49.9472765349 L -15.0000000000,54.0000000000" />
@@ -4047,13 +4043,13 @@
 	</glyph>
 	<glyph id="2" left="-19" right="20">
 		<layer name= "Layer" visible="true">
-			<path data="S -14.0000000000,29.5000000000 L 15.0000000000,29.5000000000 L 15.0000000000,22.0000000000 L -14.0000000000,22.0000000000 L -14.0000000000,29.5000000000" />
+			<path data="S -14.0000000000,29.7500000000 L 15.0000000000,29.7500000000 L 15.0000000000,21.7500000000 L -14.0000000000,21.7500000000 L -14.0000000000,29.7500000000" />
 		</layer>
 	</glyph>
 </collection>
 
 <collection unicode="U+2011">
-	<selected id="3"/>
+	<selected id="4"/>
 	<glyph id="1" left="-33" right="35">
 		<layer name= "Layer" visible="true">
 			<path data="S -26.0000000000,0.0000000000 L -26.0000000000,54.0000000000 D -23.5000000000,54.0000000000 -16.0010000000,54.0000000000 -16.0000000000,54.0000000000 L -16.0000000000,0.0000000000 L -26.0000000000,0.0000000000" />
@@ -4069,6 +4065,11 @@
 	<glyph id="3" left="-19" right="20">
 		<layer name= "Layer" visible="true">
 			<path data="S -14.0000000000,29.5000000000 L 15.0000000000,29.5000000000 L 15.0000000000,22.0000000000 L -14.0000000000,22.0000000000 L -14.0000000000,29.5000000000" />
+		</layer>
+	</glyph>
+	<glyph id="4" left="-19" right="20">
+		<layer name= "Layer" visible="true">
+			<path data="S -14.0000000000,29.7500000000 L 15.0000000000,29.7500000000 L 15.0000000000,21.7500000000 L -14.0000000000,21.7500000000 L -14.0000000000,29.7500000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -4087,9 +4088,9 @@
 			<path data="S 20.0000000000,21.7500000000 L -23.9013350451,21.7500000000 L -23.9013350451,29.2500000000 L 20.0000000000,29.2500000000 L 20.0000000000,21.7500000000" />
 		</layer>
 	</glyph>
-	<glyph id="3" left="-28.901335045100002" right="25.098664954899998">
+	<glyph id="3" left="-29" right="25">
 		<layer name= "Layer" visible="true">
-			<path data="S 20.0986649549,21.7500000000 L -23.9013350451,21.7500000000 L -23.9013350451,29.2500000000 L 20.0986649549,29.2500000000 L 20.0986649549,21.7500000000" />
+			<path data="S 20.0000000000,21.7500000000 L -24.0000000000,21.7500000000 L -24.0000000000,29.2500000000 L 20.0000000000,29.2500000000 L 20.0000000000,21.7500000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -4101,9 +4102,9 @@
 			<path data="S 20.0000000000,21.7500000000 L -23.9013350451,21.7500000000 L -23.9013350451,29.2500000000 L 20.0000000000,29.2500000000 L 20.0000000000,21.7500000000" />
 		</layer>
 	</glyph>
-	<glyph id="2" left="-28.901335045100002" right="25.098664954899998">
+	<glyph id="2" left="-29" right="25">
 		<layer name= "Layer" visible="true">
-			<path data="S 20.0986649549,21.7500000000 L -23.9013350451,21.7500000000 L -23.9013350451,29.2500000000 L 20.0986649549,29.2500000000 L 20.0986649549,21.7500000000" />
+			<path data="S 20.0000000000,21.7500000000 L -24.0000000000,21.7500000000 L -24.0000000000,29.2500000000 L 20.0000000000,29.2500000000 L 20.0000000000,21.7500000000" />
 		</layer>
 	</glyph>
 </collection>
@@ -4115,16 +4116,16 @@
 			<path data="S 20.0000000000,21.7500000000 L -23.9013350451,21.7500000000 L -23.9013350451,29.2500000000 L 20.0000000000,29.2500000000 L 20.0000000000,21.7500000000" />
 		</layer>
 	</glyph>
-	<glyph id="2" left="-56.754567060500001" right="38.253020620999997">
+	<glyph id="2" left="-57.007587681499999" right="38">
 		<layer name= "Layer" visible="true">
-			<path data="S 33.2530206210,21.7500000000 L -51.7545670605,21.7500000000 L -51.7545670605,29.2500000000 L 33.2530206210,29.2500000000 L 33.2530206210,21.7500000000" />
+			<path data="S 33.0000000000,21.7500000000 L -52.0075876815,21.7500000000 L -52.0075876815,29.2500000000 L 33.0000000000,29.2500000000 L 33.0000000000,21.7500000000" />
 		</layer>
 	</glyph>
 </collection>
 
 <collection unicode="U+2018">
 	<selected id="1"/>
-	<glyph id="1" left="-32" right="-7.5">
+	<glyph id="1" left="-32.5" right="-8">
 		<layer name= "Layer" visible="true">
 			<path data="S -12.5000000000,56.7674698795 L -16.5000000000,34.2674698795 L -28.0000000000,34.2674698795 L -20.0000000000,56.7674698795 L -12.5000000000,56.7674698795" />
 		</layer>
@@ -4138,7 +4139,7 @@
 			<path data="S -12.5000000000,55.5000000000 L -16.5000000000,33.0000000000 L -28.0000000000,33.0000000000 L -20.0000000000,55.5000000000 L -12.5000000000,55.5000000000" />
 		</layer>
 	</glyph>
-	<glyph id="2" left="-33" right="-8.5">
+	<glyph id="2" left="-33.5" right="-9.5">
 		<layer name= "Layer" visible="true">
 			<path data="S -28.0000000000,34.0000000000 L -24.0000000000,56.5000000000 L -12.5000000000,56.5000000000 L -20.5000000000,34.0000000000 L -28.0000000000,34.0000000000" />
 		</layer>
@@ -4156,7 +4157,7 @@
 
 <collection unicode="U+201c">
 	<selected id="1"/>
-	<glyph id="1" left="-32" right="10">
+	<glyph id="1" left="-32.5" right="9.5">
 		<layer name= "Layer" visible="true">
 			<path data="S 5.0000000000,56.5000000000 L 1.0000000000,34.0000000000 L -10.5000000000,34.0000000000 L -2.5000000000,56.5000000000 L 5.0000000000,56.5000000000" />
 			<path data="S -12.5000000000,56.5000000000 L -16.5000000000,34.0000000000 L -28.0000000000,34.0000000000 L -20.0000000000,56.5000000000 L -12.5000000000,56.5000000000" />
@@ -4166,7 +4167,7 @@
 
 <collection unicode="U+201d">
 	<selected id="1"/>
-	<glyph id="1" left="-33" right="9">
+	<glyph id="1" left="-33.5" right="8">
 		<layer name= "Layer" visible="true">
 			<path data="S -28.0000000000,34.0000000000 L -24.0000000000,56.5000000000 L -12.5000000000,56.5000000000 L -20.5000000000,34.0000000000 L -28.0000000000,34.0000000000" />
 			<path data="S -10.5000000000,34.0000000000 L -6.5000000000,56.5000000000 L 5.0000000000,56.5000000000 L -3.0000000000,34.0000000000 L -10.5000000000,34.0000000000" />
@@ -4288,7 +4289,7 @@
 
 <collection unicode="U+2212">
 	<selected id="1"/>
-	<glyph id="1" left="-19" right="20">
+	<glyph id="1" left="-57" right="38">
 		<layer name= "Layer" visible="true">
 			<path data="S 20.0986649549,21.7500000000 L -23.9013350451,21.7500000000 L -23.9013350451,29.2500000000 L 20.0986649549,29.2500000000 L 20.0986649549,21.7500000000" />
 		</layer>
@@ -4353,285 +4354,900 @@
 <spacing first="U+5a" next="U+017d" />
 <spacing first="U+73" next="U+0161" />
 <spacing first="U+7a" next="U+017e" />
+<kerning left="Ú" right="$" hadjustment="0.0000000000" />
+<kerning left="divis" right="Z" hadjustment="-2.0000000000" />
+<kerning left="É" right="O" hadjustment="-1.0000000000" />
+<kerning left="A" right="‘" hadjustment="-8.0000000000" />
+<kerning left="O" right="&apos;" hadjustment="-1.0000000000" />
+<kerning left="Ò" right="quote" hadjustment="-1.0000000000" />
 <kerning left="A" right="’" hadjustment="-9.0000000000" />
 <kerning left="Á" right="C" hadjustment="-2.5000000000" />
+<kerning left="$" right="‘" hadjustment="-0.5000000000" />
 <kerning left="Â" right="Ò" hadjustment="-2.5000000000" />
+<kerning left="D" right="Ž" hadjustment="-1.5000000000" />
+<kerning left="É" right="Q" hadjustment="-1.0000000000" />
+<kerning left="Ó " right="J" hadjustment="-0.5000000000" />
+<kerning left="$" right="’" hadjustment="-0.2500000000" />
 <kerning left="Â" right="Ó" hadjustment="-2.5000000000" />
 <kerning left="Ã" right="¥" hadjustment="-7.2500000000" />
 <kerning left="Â" right="Ô" hadjustment="-2.5000000000" />
+<kerning left="É" right="S" hadjustment="-0.2500000000" />
+<kerning left="A" right="“" hadjustment="-8.0000000000" />
 <kerning left="Â" right="Õ" hadjustment="-2.5000000000" />
 <kerning left="A" right="”" hadjustment="-9.0000000000" />
 <kerning left="Á" right="G" hadjustment="-2.5000000000" />
+<kerning left="F" right="Š" hadjustment="-0.5000000000" />
+<kerning left="K" right="Ò" hadjustment="-4.0000000000" />
+<kerning left="O" right="," hadjustment="-4.2500000000" />
+<kerning left="$" right="“" hadjustment="-0.5000000000" />
 <kerning left="Â" right="Ö" hadjustment="-2.5000000000" />
+<kerning left="$" right="”" hadjustment="-0.2500000000" />
 <kerning left="Ã" right="Ç" hadjustment="-2.5000000000" />
+<kerning left="K" right="Ô" hadjustment="-4.0000000000" />
+<kerning left="L" right="¥" hadjustment="-9.2500000000" />
+<kerning left="O" right="." hadjustment="-3.5000000000" />
+<kerning left="Ú" right="," hadjustment="-4.0000000000" />
 <kerning left="Â" right="Ø" hadjustment="-2.5000000000" />
 <kerning left="Á" right="J" hadjustment="0.0000000000" />
+<kerning left="K" right="Õ" hadjustment="-4.0000000000" />
 <kerning left="Â" right="Ù" hadjustment="-3.0000000000" />
+<kerning left="K" right="Ö" hadjustment="-4.0000000000" />
+<kerning left="Ú" right="." hadjustment="-4.0000000000" />
 <kerning left="." right="A" hadjustment="0.0000000000" />
 <kerning left="Â" right="Ú" hadjustment="-3.0000000000" />
+<kerning left="L" right="Ç" hadjustment="-2.5000000000" />
+<kerning left="T" right="divis" hadjustment="-5.0000000000" />
 <kerning left="Â" right="Û" hadjustment="-3.0000000000" />
+<kerning left="Â" right="	" hadjustment="-2.5000000000" />
+<kerning left="K" right="Ø" hadjustment="-4.0000000000" />
+<kerning left="Y" right="Ó " hadjustment="-2.7500000000" />
+<kerning left="Ã" right="­" hadjustment="-2.5000000000" />
 <kerning left="Â" right="Ü" hadjustment="-3.0000000000" />
+<kerning left="K" right="Ù" hadjustment="-1.0000000000" />
+<kerning left="Ó " right="T" hadjustment="-2.5000000000" />
+<kerning left="Õ" right="quote" hadjustment="-1.0000000000" />
+<kerning left="." right="C" hadjustment="-3.5000000000" />
 <kerning left="W" right="A" hadjustment="-3.0000000000" />
 <kerning left="Â" right="Ý" hadjustment="-7.2500000000" />
 <kerning left="Á" right="O" hadjustment="-2.5000000000" />
+<kerning left="G" right="&apos;" hadjustment="-1.0000000000" />
+<kerning left="K" right="Ú" hadjustment="-1.0000000000" />
 <kerning left="A" right="…" hadjustment="0.0000000000" />
+<kerning left="K" right="Û" hadjustment="-1.0000000000" />
+<kerning left="Ó " right="V" hadjustment="-2.5000000000" />
 <kerning left="Á" right="Q" hadjustment="-2.5000000000" />
+<kerning left="W" right="C" hadjustment="-0.7500000000" />
+<kerning left="K" right="Ü" hadjustment="-1.0000000000" />
+<kerning left="Ó " right="W" hadjustment="-0.7500000000" />
+<kerning left="Ò" right="&apos;" hadjustment="-1.0000000000" />
+<kerning left="$" right="…" hadjustment="-0.2500000000" />
 <kerning left="¥" right="À" hadjustment="-7.2500000000" />
+<kerning left="Ó " right="X" hadjustment="-2.0000000000" />
+<kerning left="." right="G" hadjustment="-3.5000000000" />
 <kerning left="¥" right="Á" hadjustment="-7.2500000000" />
 <kerning left="Á" right="S" hadjustment="-1.0000000000" />
+<kerning left="Ó " right="Y" hadjustment="-2.7500000000" />
 <kerning left="Ã" right="Ò" hadjustment="-2.5000000000" />
 <kerning left="¥" right="Â" hadjustment="-7.2500000000" />
 <kerning left="Á" right="T" hadjustment="-7.7500000000" />
+<kerning left="D" right="‘" hadjustment="-0.7500000000" />
+<kerning left="Ó " right="Z" hadjustment="-1.5000000000" />
+<kerning left="Ã" right="Ó" hadjustment="-2.5000000000" />
 <kerning left="¥" right="Ã" hadjustment="-7.2500000000" />
 <kerning left="Á" right="U" hadjustment="-3.0000000000" />
-<kerning left="Ã" right="Ó" hadjustment="-2.5000000000" />
+<kerning left="D" right="’" hadjustment="-1.2500000000" />
+<kerning left="W" right="G" hadjustment="-0.7500000000" />
 <kerning left="Ã" right="Ô" hadjustment="-2.5000000000" />
 <kerning left="¥" right="Ä" hadjustment="-7.2500000000" />
 <kerning left="Ä" right="¥" hadjustment="-7.2500000000" />
 <kerning left="Á" right="V" hadjustment="-7.0000000000" />
+<kerning left="K" right="–" hadjustment="-5.0000000000" />
+<kerning left="Ÿ" right="Ó " hadjustment="-2.7500000000" />
+<kerning left="Ò" right="," hadjustment="-4.2500000000" />
 <kerning left="Ã" right="Õ" hadjustment="-2.5000000000" />
 <kerning left="¥" right="Å" hadjustment="-7.2500000000" />
 <kerning left="Á" right="W" hadjustment="-3.0000000000" />
+<kerning left="K" right="—" hadjustment="-5.0000000000" />
+<kerning left="L" right="Ò" hadjustment="-2.5000000000" />
 <kerning left="Ã" right="Ö" hadjustment="-2.5000000000" />
+<kerning left="D" right="“" hadjustment="-0.7500000000" />
+<kerning left="Ò" right="." hadjustment="-3.5000000000" />
+<kerning left="W" right="J" hadjustment="-2.5000000000" />
+<kerning left="W" right="divis" hadjustment="-0.5000000000" />
 <kerning left="Ä" right="Ç" hadjustment="-2.5000000000" />
 <kerning left="Á" right="Y" hadjustment="-7.2500000000" />
+<kerning left="¥" right="Ç" hadjustment="-2.7500000000" />
+<kerning left="D" right="”" hadjustment="-1.2500000000" />
+<kerning left="L" right="Ô" hadjustment="-2.5000000000" />
 <kerning left="Ã" right="Ø" hadjustment="-2.5000000000" />
+<kerning left="L" right="Õ" hadjustment="-2.5000000000" />
+<kerning left="O" right="?" hadjustment="-1.0000000000" />
 <kerning left="Ã" right="Ù" hadjustment="-3.0000000000" />
+<kerning left="Ê" right="$" hadjustment="-0.2500000000" />
+<kerning left="L" right="Ö" hadjustment="-2.5000000000" />
 <kerning left="O" right="A" hadjustment="-2.5000000000" />
 <kerning left="Ã" right="Ú" hadjustment="-3.0000000000" />
+<kerning left="K" right="’" hadjustment="-3.0000000000" />
+<kerning left="." right="Q" hadjustment="-3.5000000000" />
 <kerning left="Ã" right="Û" hadjustment="-3.0000000000" />
+<kerning left="È" right="divis" hadjustment="0.0000000000" />
+<kerning left="L" right="Ø" hadjustment="-2.5000000000" />
+<kerning left="W" right="O" hadjustment="-0.7500000000" />
+<kerning left="R" right="–" hadjustment="-0.5000000000" />
+<kerning left="„" right="Ÿ" hadjustment="-6.0000000000" />
 <kerning left="Ã" right="Ü" hadjustment="-3.0000000000" />
 <kerning left="Ú" right="A" hadjustment="-3.0000000000" />
+<kerning left="Ä" right="­" hadjustment="-2.5000000000" />
+<kerning left="L" right="Ù" hadjustment="-3.5000000000" />
+<kerning left="R" right="—" hadjustment="-0.5000000000" />
+<kerning left="." right="S" hadjustment="0.0000000000" />
 <kerning left="Ã" right="Ý" hadjustment="-7.2500000000" />
+<kerning left="L" right="Ú" hadjustment="-3.5000000000" />
+<kerning left="W" right="Q" hadjustment="-0.7500000000" />
+<kerning left="." right="T" hadjustment="-8.0000000000" />
 <kerning left="_" right="_" hadjustment="-3.0000000000" />
+<kerning left="K" right="”" hadjustment="-3.0000000000" />
+<kerning left="L" right="Û" hadjustment="-3.5000000000" />
+<kerning left="." right="U" hadjustment="-4.0000000000" />
+<kerning left="L" right="Ü" hadjustment="-3.5000000000" />
+<kerning left="." right="V" hadjustment="-5.5000000000" />
+<kerning left="D" right="…" hadjustment="-3.5000000000" />
+<kerning left="L" right="Ý" hadjustment="-9.2500000000" />
+<kerning left="R" right="‘" hadjustment="-1.2500000000" />
+<kerning left="." right="W" hadjustment="-4.0000000000" />
 <kerning left="…" right="À" hadjustment="0.0000000000" />
+<kerning left="R" right="’" hadjustment="-1.2500000000" />
 <kerning left="…" right="Á" hadjustment="0.0000000000" />
 <kerning left="Ä" right="Ò" hadjustment="-2.5000000000" />
+<kerning left="¥" right="Ò" hadjustment="-2.7500000000" />
+<kerning left="." right="Y" hadjustment="-6.0000000000" />
 <kerning left="…" right="Â" hadjustment="0.0000000000" />
 <kerning left="Ä" right="Ó" hadjustment="-2.5000000000" />
+<kerning left="O" right="J" hadjustment="-0.5000000000" />
 <kerning left="…" right="Ã" hadjustment="0.0000000000" />
 <kerning left="Å" right="¥" hadjustment="-7.2500000000" />
 <kerning left="Ä" right="Ô" hadjustment="-2.5000000000" />
+<kerning left="¥" right="Ô" hadjustment="-2.7500000000" />
+<kerning left="R" right="“" hadjustment="-1.2500000000" />
+<kerning left="W" right="space" hadjustment="0.0000000000" />
 <kerning left="…" right="Ä" hadjustment="0.0000000000" />
 <kerning left="Ä" right="Õ" hadjustment="-2.5000000000" />
+<kerning left="‑" right="A" hadjustment="-2.5000000000" />
+<kerning left="G" right="’" hadjustment="-1.0000000000" />
+<kerning left="G" right="?" hadjustment="-1.0000000000" />
+<kerning left="¥" right="Õ" hadjustment="-2.7500000000" />
+<kerning left="R" right="”" hadjustment="-1.2500000000" />
+<kerning left="Ú" right="J" hadjustment="-0.5000000000" />
+<kerning left="…" right="¥" hadjustment="-6.0000000000" />
 <kerning left="…" right="Å" hadjustment="0.0000000000" />
 <kerning left="Â" right="$" hadjustment="-1.0000000000" />
 <kerning left="Ä" right="Ö" hadjustment="-2.5000000000" />
+<kerning left="¥" right="Ö" hadjustment="-2.7500000000" />
 <kerning left="Å" right="Ç" hadjustment="-2.5000000000" />
+<kerning left="Ë" right="divis" hadjustment="0.0000000000" />
+<kerning left="Ò" right="?" hadjustment="-1.0000000000" />
 <kerning left="Ä" right="Ø" hadjustment="-2.5000000000" />
+<kerning left="…" right="Ç" hadjustment="-3.5000000000" />
+<kerning left="¥" right="Ø" hadjustment="-2.7500000000" />
 <kerning left="Â" right="&apos;" hadjustment="-9.0000000000" />
 <kerning left="Ä" right="Ù" hadjustment="-3.0000000000" />
 <kerning left="Ò" right="A" hadjustment="-2.5000000000" />
+<kerning left="G" right="”" hadjustment="-1.0000000000" />
+<kerning left="S" right="divis" hadjustment="-0.2500000000" />
 <kerning left="Ä" right="Ú" hadjustment="-3.0000000000" />
+<kerning left="$" right="Ÿ" hadjustment="-2.5000000000" />
 <kerning left="Ä" right="Û" hadjustment="-3.0000000000" />
+<kerning left="Ô" right="quote" hadjustment="-1.0000000000" />
+<kerning left="Å" right="­" hadjustment="-2.5000000000" />
 <kerning left="Ä" right="Ü" hadjustment="-3.0000000000" />
+<kerning left="	" right="À" hadjustment="-2.5000000000" />
 <kerning left="Ä" right="Ý" hadjustment="-7.2500000000" />
+<kerning left="G" right="Ÿ" hadjustment="-2.2500000000" />
+<kerning left="O" right="T" hadjustment="-2.5000000000" />
+<kerning left="	" right="Á" hadjustment="-2.5000000000" />
+<kerning left="‚" right="Ó " hadjustment="-1.2500000000" />
+<kerning left="Ú" right="S" hadjustment="0.0000000000" />
+<kerning left="	" right="Â" hadjustment="-2.5000000000" />
+<kerning left="O" right="V" hadjustment="-2.5000000000" />
+<kerning left="$" right="Ž" hadjustment="-1.0000000000" />
+<kerning left="	" right="Ã" hadjustment="-2.5000000000" />
 <kerning left="Â" right="." hadjustment="0.0000000000" />
+<kerning left="O" right="W" hadjustment="-0.7500000000" />
+<kerning left="	" right="Ä" hadjustment="-2.5000000000" />
+<kerning left="O" right="X" hadjustment="-2.0000000000" />
+<kerning left="C" right="‚" hadjustment="-0.5000000000" />
+<kerning left="divis" right="Š" hadjustment="-0.2500000000" />
+<kerning left="	" right="Å" hadjustment="-2.5000000000" />
 <kerning left="Å" right="Ò" hadjustment="-2.5000000000" />
 <kerning left="À" right="Š" hadjustment="-1.0000000000" />
-<kerning left="O" right="À" hadjustment="-2.5000000000" />
+<kerning left="Ò" right="J" hadjustment="-0.5000000000" />
+<kerning left="O" right="Y" hadjustment="-2.7500000000" />
 <kerning left="Å" right="Ó" hadjustment="-2.5000000000" />
+<kerning left="O" right="À" hadjustment="-2.5000000000" />
+<kerning left="O" right="Z" hadjustment="-1.5000000000" />
+<kerning left="…" right="Ò" hadjustment="-3.5000000000" />
+<kerning left="Ú" right="X" hadjustment="-0.2500000000" />
 <kerning left="Å" right="Ô" hadjustment="-2.5000000000" />
 <kerning left="O" right="Á" hadjustment="-2.5000000000" />
+<kerning left="Ê" right="?" hadjustment="0.0000000000" />
+<kerning left="X" right="$" hadjustment="-1.0000000000" />
 <kerning left="Å" right="Õ" hadjustment="-2.5000000000" />
 <kerning left="O" right="Â" hadjustment="-2.5000000000" />
 <kerning left="Ó " right="À" hadjustment="-2.5000000000" />
+<kerning left="…" right="Ô" hadjustment="-3.5000000000" />
+<kerning left="Ú" right="Z" hadjustment="-0.2500000000" />
+<kerning left="V" right="divis" hadjustment="-2.5000000000" />
 <kerning left="Å" right="Ö" hadjustment="-2.5000000000" />
 <kerning left="O" right="Ã" hadjustment="-2.5000000000" />
 <kerning left="Ó " right="Á" hadjustment="-2.5000000000" />
+<kerning left="…" right="Õ" hadjustment="-3.5000000000" />
 <kerning left="O" right="Ä" hadjustment="-2.5000000000" />
 <kerning left="Ó " right="Â" hadjustment="-2.5000000000" />
+<kerning left="O" right="¥" hadjustment="-2.7500000000" />
+<kerning left="…" right="Ö" hadjustment="-3.5000000000" />
 <kerning left="Å" right="Ø" hadjustment="-2.5000000000" />
 <kerning left="O" right="Å" hadjustment="-2.5000000000" />
 <kerning left="Ó " right="Ã" hadjustment="-2.5000000000" />
+<kerning left="Ê" right="C" hadjustment="-1.0000000000" />
 <kerning left="Å" right="Ù" hadjustment="-3.0000000000" />
 <kerning left="Ó " right="Ä" hadjustment="-2.5000000000" />
+<kerning left="Ó " right="¥" hadjustment="-2.7500000000" />
+<kerning left="…" right="Ø" hadjustment="-3.5000000000" />
 <kerning left="Å" right="Ú" hadjustment="-3.0000000000" />
 <kerning left="Ó " right="Å" hadjustment="-2.5000000000" />
+<kerning left="G" right="T" hadjustment="-2.5000000000" />
+<kerning left="…" right="Ù" hadjustment="-4.0000000000" />
 <kerning left="Å" right="Û" hadjustment="-3.0000000000" />
 <kerning left="?" right="H" hadjustment="0.0000000000" />
+<kerning left="…" right="Ú" hadjustment="-4.0000000000" />
 <kerning left="Å" right="Ü" hadjustment="-3.0000000000" />
+<kerning left="Ê" right="G" hadjustment="-1.0000000000" />
+<kerning left="G" right="V" hadjustment="-3.0000000000" />
+<kerning left="Ò" right="T" hadjustment="-2.5000000000" />
+<kerning left="…" right="Û" hadjustment="-4.0000000000" />
 <kerning left="Å" right="Ý" hadjustment="-7.2500000000" />
+<kerning left="C" right="…" hadjustment="-1.2500000000" />
+<kerning left="G" right="W" hadjustment="-0.2500000000" />
+<kerning left="Q" right="‘" hadjustment="-0.7500000000" />
+<kerning left="…" right="Ü" hadjustment="-4.0000000000" />
+<kerning left="Ò" right="V" hadjustment="-2.5000000000" />
+<kerning left="Q" right="’" hadjustment="-1.2500000000" />
+<kerning left="&apos;" right="$" hadjustment="-0.5000000000" />
+<kerning left="…" right="Ý" hadjustment="-6.0000000000" />
+<kerning left="Ê" right="J" hadjustment="0.0000000000" />
+<kerning left="G" right="Y" hadjustment="-2.2500000000" />
+<kerning left="Ò" right="W" hadjustment="-0.7500000000" />
+<kerning left="X" right="–" hadjustment="-3.0000000000" />
 <kerning left="Ç" right="À" hadjustment="-1.2500000000" />
-<kerning left="Â" right="?" hadjustment="-6.5000000000" />
+<kerning left="Ò" right="X" hadjustment="-2.0000000000" />
+<kerning left="U" right="…" hadjustment="-4.0000000000" />
+<kerning left="X" right="—" hadjustment="-3.0000000000" />
 <kerning left="Ç" right="Á" hadjustment="-1.2500000000" />
-<kerning left="Ç" right="Â" hadjustment="-1.2500000000" />
+<kerning left="Â" right="?" hadjustment="-6.5000000000" />
+<kerning left="F" right="‘" hadjustment="-1.0000000000" />
+<kerning left="Ò" right="Y" hadjustment="-2.7500000000" />
+<kerning left="Q" right="“" hadjustment="-0.7500000000" />
 <kerning left="Á" right="Š" hadjustment="-1.0000000000" />
-<kerning left="P" right="À" hadjustment="-4.7500000000" />
+<kerning left="Ç" right="Â" hadjustment="-1.2500000000" />
+<kerning left="F" right="’" hadjustment="-0.5000000000" />
+<kerning left="Ò" right="Z" hadjustment="-1.5000000000" />
+<kerning left="Q" right="”" hadjustment="-1.2500000000" />
+<kerning left="&apos;" right="Š" hadjustment="-0.5000000000" />
 <kerning left="Ç" right="Ã" hadjustment="-1.2500000000" />
-<kerning left="P" right="Á" hadjustment="-4.7500000000" />
+<kerning left="P" right="À" hadjustment="-4.7500000000" />
+<kerning left="Û" right="$" hadjustment="0.0000000000" />
 <kerning left="Ç" right="Ä" hadjustment="-1.2500000000" />
-<kerning left="P" right="Â" hadjustment="-4.7500000000" />
+<kerning left="P" right="Á" hadjustment="-4.7500000000" />
+<kerning left="Ç" right="¥" hadjustment="-2.2500000000" />
+<kerning left="Ê" right="O" hadjustment="-1.0000000000" />
+<kerning left="J" right="…" hadjustment="-1.7500000000" />
 <kerning left="Â" right="C" hadjustment="-2.5000000000" />
 <kerning left="Ç" right="Å" hadjustment="-1.2500000000" />
+<kerning left="P" right="Â" hadjustment="-4.7500000000" />
+<kerning left="F" right="“" hadjustment="-1.0000000000" />
 <kerning left="P" right="Ã" hadjustment="-4.7500000000" />
+<kerning left="Ê" right="Q" hadjustment="-1.0000000000" />
+<kerning left="F" right="”" hadjustment="-0.5000000000" />
 <kerning left="P" right="Ä" hadjustment="-4.7500000000" />
+<kerning left="B" right="–" hadjustment="-0.5000000000" />
+<kerning left="Ç" right="Ç" hadjustment="0.0000000000" />
+<kerning left="P" right="¥" hadjustment="-1.0000000000" />
 <kerning left="P" right="Å" hadjustment="-4.7500000000" />
+<kerning left="B" right="—" hadjustment="-0.5000000000" />
+<kerning left="Ê" right="S" hadjustment="-0.2500000000" />
+<kerning left="Ó " right="quote" hadjustment="-1.0000000000" />
 <kerning left="Â" right="G" hadjustment="-2.5000000000" />
-<kerning left="A" right="quote" hadjustment="-9.0000000000" />
+<kerning left="P" right="," hadjustment="-9.0000000000" />
 <kerning left="À" right="Ÿ" hadjustment="-7.2500000000" />
+<kerning left="A" right="quote" hadjustment="-9.0000000000" />
+<kerning left="T" right="–" hadjustment="-5.0000000000" />
+<kerning left="P" right="." hadjustment="-9.0000000000" />
+<kerning left="Q" right="…" hadjustment="-0.5000000000" />
+<kerning left="T" right="—" hadjustment="-5.0000000000" />
+<kerning left="Û" right="," hadjustment="-4.0000000000" />
 <kerning left="Â" right="J" hadjustment="0.0000000000" />
+<kerning left="B" right="‘" hadjustment="-0.5000000000" />
+<kerning left="Š" right="Ÿ" hadjustment="-2.5000000000" />
+<kerning left="B" right="’" hadjustment="-0.7500000000" />
+<kerning left="Û" right="." hadjustment="-4.0000000000" />
+<kerning left="divis" right="Ž" hadjustment="-2.0000000000" />
+<kerning left="Ã" right="	" hadjustment="-2.5000000000" />
+<kerning left="F" right="…" hadjustment="-4.0000000000" />
+<kerning left="X" right="?" hadjustment="-1.5000000000" />
 <kerning left="." right="À" hadjustment="0.0000000000" />
+<kerning left="B" right="“" hadjustment="-0.5000000000" />
+<kerning left="O" right="Ý" hadjustment="-2.7500000000" />
 <kerning left="." right="Á" hadjustment="0.0000000000" />
 <kerning left="Â" right="O" hadjustment="-2.5000000000" />
+<kerning left="B" right="”" hadjustment="-0.7500000000" />
+<kerning left="Š" right="Ž" hadjustment="-1.0000000000" />
 <kerning left="Â" right="Š" hadjustment="-1.0000000000" />
 <kerning left="." right="Â" hadjustment="0.0000000000" />
+<kerning left="Ã" right="−" hadjustment="-2.5000000000" />
+<kerning left="Ó " right="Ý" hadjustment="-2.7500000000" />
 <kerning left="." right="Ã" hadjustment="0.0000000000" />
 <kerning left="Â" right="Q" hadjustment="-2.5000000000" />
 <kerning left="Q" right="À" hadjustment="-1.5000000000" />
+<kerning left="X" right="C" hadjustment="-2.0000000000" />
 <kerning left="." right="Ä" hadjustment="0.0000000000" />
 <kerning left="Q" right="Á" hadjustment="-1.5000000000" />
+<kerning left="." right="¥" hadjustment="-6.0000000000" />
 <kerning left="." right="Å" hadjustment="0.0000000000" />
 <kerning left="Â" right="S" hadjustment="-1.0000000000" />
 <kerning left="Q" right="Â" hadjustment="-1.5000000000" />
+<kerning left="K" right="Š" hadjustment="-1.0000000000" />
+<kerning left="Ž" right="Ó " hadjustment="-1.5000000000" />
 <kerning left="Â" right="T" hadjustment="-7.7500000000" />
 <kerning left="Q" right="Ã" hadjustment="-1.5000000000" />
+<kerning left="Ö" right="quote" hadjustment="-1.0000000000" />
 <kerning left="Â" right="U" hadjustment="-3.0000000000" />
 <kerning left="Q" right="Ä" hadjustment="-1.5000000000" />
+<kerning left="È" right="Ç" hadjustment="-1.0000000000" />
+<kerning left="X" right="G" hadjustment="-2.0000000000" />
+<kerning left="Q" right="¥" hadjustment="-2.7500000000" />
+<kerning left="." right="Ç" hadjustment="-3.5000000000" />
 <kerning left="Â" right="V" hadjustment="-7.0000000000" />
 <kerning left="Q" right="Å" hadjustment="-1.5000000000" />
 <kerning left="Â" right="W" hadjustment="-3.0000000000" />
+<kerning left="E" right="–" hadjustment="0.0000000000" />
 <kerning left="Á" right="Ÿ" hadjustment="-7.2500000000" />
+<kerning left="E" right="—" hadjustment="0.0000000000" />
+<kerning left="X" right="J" hadjustment="-0.5000000000" />
 <kerning left="Â" right="Y" hadjustment="-7.2500000000" />
 <kerning left="&apos;" right="A" hadjustment="-9.0000000000" />
+<kerning left="W" right="–" hadjustment="-0.5000000000" />
+<kerning left="Ç" right="Ý" hadjustment="-2.2500000000" />
+<kerning left="&apos;" right="C" hadjustment="-1.0000000000" />
+<kerning left="Ë" right="$" hadjustment="-0.2500000000" />
+<kerning left="T" right="…" hadjustment="-8.0000000000" />
+<kerning left="W" right="—" hadjustment="-0.5000000000" />
 <kerning left="P" right="A" hadjustment="-4.7500000000" />
+<kerning left="E" right="‘" hadjustment="-1.0000000000" />
+<kerning left="‚" right="C" hadjustment="-1.2500000000" />
+<kerning left="E" right="’" hadjustment="-0.5000000000" />
+<kerning left="X" right="O" hadjustment="-2.0000000000" />
 <kerning left="Û" right="A" hadjustment="-3.0000000000" />
+<kerning left="L" right="–" hadjustment="-5.5000000000" />
+<kerning left="P" right="Ý" hadjustment="-1.0000000000" />
+<kerning left="X" right="divis" hadjustment="-3.0000000000" />
+<kerning left="&apos;" right="G" hadjustment="-1.0000000000" />
+<kerning left="L" right="—" hadjustment="-5.5000000000" />
+<kerning left="X" right="Q" hadjustment="-2.0000000000" />
 <kerning left="Ã" right="Š" hadjustment="-1.0000000000" />
+<kerning left="È" right="Ò" hadjustment="-1.0000000000" />
+<kerning left="E" right="“" hadjustment="-1.0000000000" />
+<kerning left="‚" right="G" hadjustment="-1.2500000000" />
+<kerning left="J" right="Ž" hadjustment="0.0000000000" />
+<kerning left="E" right="”" hadjustment="-0.5000000000" />
+<kerning left="X" right="S" hadjustment="-1.0000000000" />
+<kerning left="È" right="Ô" hadjustment="-1.0000000000" />
+<kerning left="&apos;" right="J" hadjustment="-6.0000000000" />
+<kerning left="À" right="null" hadjustment="-2.5000000000" />
+<kerning left="È" right="Õ" hadjustment="-1.0000000000" />
+<kerning left="L" right="Š" hadjustment="-0.5000000000" />
+<kerning left="X" right="U" hadjustment="-0.2500000000" />
+<kerning left="È" right="Ö" hadjustment="-1.0000000000" />
+<kerning left="L" right="’" hadjustment="-7.0000000000" />
+<kerning left="É" right="Ç" hadjustment="-1.0000000000" />
+<kerning left="P" right="J" hadjustment="-4.0000000000" />
+<kerning left="S" right="–" hadjustment="-0.2500000000" />
+<kerning left="È" right="Ø" hadjustment="-1.0000000000" />
+<kerning left="P" right="…" hadjustment="-9.0000000000" />
+<kerning left="S" right="—" hadjustment="-0.2500000000" />
+<kerning left="‒" right="A" hadjustment="-2.5000000000" />
+<kerning left="&apos;" right="O" hadjustment="-1.0000000000" />
+<kerning left="Û" right="J" hadjustment="-0.5000000000" />
+<kerning left="." right="Ù" hadjustment="-4.0000000000" />
 <kerning left="Ã" right="$" hadjustment="-1.0000000000" />
 <kerning left="Â" right="Ÿ" hadjustment="-7.2500000000" />
-<kerning left="Ó" right="A" hadjustment="-2.5000000000" />
+<kerning left="R" right="Ç" hadjustment="-0.7500000000" />
+<kerning left="L" right="”" hadjustment="-7.0000000000" />
+<kerning left="‚" right="O" hadjustment="-1.2500000000" />
+<kerning left="." right="Ú" hadjustment="-4.0000000000" />
+<kerning left="." right="Û" hadjustment="-4.0000000000" />
+<kerning left="‚" right="Q" hadjustment="-1.2500000000" />
+<kerning left="S" right="‘" hadjustment="-0.5000000000" />
+<kerning left="." right="Ü" hadjustment="-4.0000000000" />
 <kerning left="Ã" right="&apos;" hadjustment="-9.0000000000" />
+<kerning left="Ó" right="A" hadjustment="-2.5000000000" />
+<kerning left="&apos;" right="S" hadjustment="-0.5000000000" />
+<kerning left="S" right="’" hadjustment="-0.2500000000" />
+<kerning left="Š" right="–" hadjustment="-0.2500000000" />
+<kerning left="." right="Ý" hadjustment="-6.0000000000" />
+<kerning left="Š" right="—" hadjustment="-0.2500000000" />
+<kerning left="Z" right="–" hadjustment="-2.0000000000" />
+<kerning left="Â" right="−" hadjustment="-2.5000000000" />
+<kerning left="‚" right="T" hadjustment="-8.0000000000" />
+<kerning left="W" right="…" hadjustment="-4.0000000000" />
+<kerning left="Z" right="—" hadjustment="-2.0000000000" />
+<kerning left="Q" right="Ý" hadjustment="-2.7500000000" />
+<kerning left="S" right="“" hadjustment="-0.5000000000" />
+<kerning left="‚" right="U" hadjustment="-2.0000000000" />
+<kerning left="P" right="T" hadjustment="-0.5000000000" />
+<kerning left="S" right="”" hadjustment="-0.2500000000" />
+<kerning left="‚" right="V" hadjustment="-5.5000000000" />
 <kerning left="Ä" right="Š" hadjustment="-1.0000000000" />
+<kerning left="É" right="Ò" hadjustment="-1.0000000000" />
+<kerning left="Û" right="S" hadjustment="0.0000000000" />
+<kerning left="¥" right="Š" hadjustment="-2.0000000000" />
+<kerning left="Š" right="‘" hadjustment="-0.5000000000" />
+<kerning left="‚" right="W" hadjustment="-4.0000000000" />
 <kerning left="S" right="À" hadjustment="-1.0000000000" />
+<kerning left="P" right="V" hadjustment="-0.5000000000" />
+<kerning left="Š" right="’" hadjustment="-0.2500000000" />
 <kerning left="Ã" right="." hadjustment="0.0000000000" />
 <kerning left="S" right="Á" hadjustment="-1.0000000000" />
+<kerning left="É" right="Ô" hadjustment="-1.0000000000" />
+<kerning left="‚" right="Y" hadjustment="-6.0000000000" />
 <kerning left="S" right="Â" hadjustment="-1.0000000000" />
+<kerning left="É" right="Õ" hadjustment="-1.0000000000" />
+<kerning left="R" right="Ò" hadjustment="-0.7500000000" />
+<kerning left="P" right="X" hadjustment="-1.7500000000" />
 <kerning left="S" right="Ã" hadjustment="-1.0000000000" />
+<kerning left="É" right="Ö" hadjustment="-1.0000000000" />
+<kerning left="…" right="Ó " hadjustment="-3.5000000000" />
+<kerning left="P" right="Y" hadjustment="-1.0000000000" />
+<kerning left="Š" right="“" hadjustment="-0.5000000000" />
 <kerning left="S" right="Ä" hadjustment="-1.0000000000" />
+<kerning left="Ê" right="Ç" hadjustment="-1.0000000000" />
+<kerning left="R" right="Ô" hadjustment="-0.7500000000" />
+<kerning left="O" right="‘" hadjustment="-0.7500000000" />
+<kerning left="P" right="Z" hadjustment="-1.0000000000" />
+<kerning left="S" right="¥" hadjustment="-2.5000000000" />
+<kerning left="Š" right="”" hadjustment="-0.2500000000" />
+<kerning left="Û" right="X" hadjustment="-0.2500000000" />
 <kerning left="S" right="Å" hadjustment="-1.0000000000" />
+<kerning left="É" right="Ø" hadjustment="-1.0000000000" />
+<kerning left="Ë" right="?" hadjustment="0.0000000000" />
+<kerning left="R" right="Õ" hadjustment="-0.7500000000" />
+<kerning left="Y" right="$" hadjustment="-2.0000000000" />
+<kerning left="R" right="Ö" hadjustment="-0.7500000000" />
+<kerning left="Û" right="Z" hadjustment="-0.2500000000" />
+<kerning left="V" right="–" hadjustment="-2.5000000000" />
 <kerning left="Ã" right="Ÿ" hadjustment="-7.2500000000" />
+<kerning left="S" right="…" hadjustment="-0.2500000000" />
+<kerning left="V" right="—" hadjustment="-2.5000000000" />
+<kerning left="R" right="Ø" hadjustment="-0.7500000000" />
+<kerning left="O" right="“" hadjustment="-0.7500000000" />
+<kerning left="Ë" right="C" hadjustment="-1.0000000000" />
+<kerning left="O" right="”" hadjustment="-1.2500000000" />
+<kerning left="R" right="Ù" hadjustment="-0.2500000000" />
+<kerning left="L" right="Ÿ" hadjustment="-9.2500000000" />
+<kerning left="R" right="Ú" hadjustment="-0.2500000000" />
+<kerning left="R" right="Û" hadjustment="-0.2500000000" />
+<kerning left="R" right="Ü" hadjustment="-0.2500000000" />
+<kerning left="Ë" right="G" hadjustment="-1.0000000000" />
+<kerning left="Š" right="…" hadjustment="-0.2500000000" />
+<kerning left="Y" right="," hadjustment="-6.0000000000" />
+<kerning left="Å" right="−" hadjustment="-2.5000000000" />
+<kerning left="Ø" right="quote" hadjustment="-1.0000000000" />
 <kerning left="Å" right="Š" hadjustment="-1.0000000000" />
+<kerning left="Ê" right="Ò" hadjustment="-1.0000000000" />
+<kerning left="Y" right="." hadjustment="-6.0000000000" />
 <kerning left="T" right="À" hadjustment="-7.7500000000" />
+<kerning left="Ë" right="J" hadjustment="0.0000000000" />
+<kerning left="A" right="	" hadjustment="-2.5000000000" />
 <kerning left="T" right="Á" hadjustment="-7.7500000000" />
-<kerning left="T" right="Â" hadjustment="-7.7500000000" />
+<kerning left="Ê" right="Ô" hadjustment="-1.0000000000" />
 <kerning left="Ã" right="?" hadjustment="-6.5000000000" />
+<kerning left="T" right="Â" hadjustment="-7.7500000000" />
+<kerning left="Ê" right="Õ" hadjustment="-1.0000000000" />
+<kerning left="S" right="Ò" hadjustment="0.0000000000" />
+<kerning left="O" right="…" hadjustment="-3.5000000000" />
 <kerning left="T" right="Ã" hadjustment="-7.7500000000" />
+<kerning left="Ê" right="Ö" hadjustment="-1.0000000000" />
 <kerning left="T" right="Ä" hadjustment="-7.7500000000" />
+<kerning left="Ë" right="Ç" hadjustment="-1.0000000000" />
+<kerning left="S" right="Ô" hadjustment="0.0000000000" />
+<kerning left="Ü" right="$" hadjustment="0.0000000000" />
 <kerning left="T" right="Å" hadjustment="-7.7500000000" />
+<kerning left="Ê" right="Ø" hadjustment="-1.0000000000" />
+<kerning left="Ë" right="O" hadjustment="-1.0000000000" />
+<kerning left="S" right="Õ" hadjustment="0.0000000000" />
+<kerning left="Q" right="&apos;" hadjustment="-1.0000000000" />
 <kerning left="Ã" right="C" hadjustment="-2.5000000000" />
+<kerning left="S" right="Ö" hadjustment="0.0000000000" />
 <kerning left="Ä" right="Ÿ" hadjustment="-7.2500000000" />
+<kerning left="T" right="Ç" hadjustment="-2.5000000000" />
+<kerning left="Ë" right="Q" hadjustment="-1.0000000000" />
+<kerning left="S" right="Ø" hadjustment="0.0000000000" />
+<kerning left="Z" right="divis" hadjustment="-2.0000000000" />
+<kerning left="Á" right="−" hadjustment="-2.5000000000" />
+<kerning left="Ë" right="S" hadjustment="-0.2500000000" />
+<kerning left="„" right="Ó " hadjustment="-1.2500000000" />
+<kerning left="V" right="…" hadjustment="-5.5000000000" />
 <kerning left="Ã" right="G" hadjustment="-2.5000000000" />
+<kerning left="Q" right="," hadjustment="-0.5000000000" />
+<kerning left="Q" right="." hadjustment="-0.5000000000" />
+<kerning left="Ü" right="," hadjustment="-4.0000000000" />
+<kerning left="­" right="À" hadjustment="-2.5000000000" />
 <kerning left="Ã" right="J" hadjustment="0.0000000000" />
+<kerning left="S" right="Ý" hadjustment="-2.5000000000" />
+<kerning left="–" right="$" hadjustment="-0.2500000000" />
+<kerning left="­" right="Á" hadjustment="-2.5000000000" />
+<kerning left="Ü" right="." hadjustment="-4.0000000000" />
+<kerning left="­" right="Â" hadjustment="-2.5000000000" />
+<kerning left="Ë" right="Ò" hadjustment="-1.0000000000" />
 <kerning left="U" right="À" hadjustment="-3.0000000000" />
+<kerning left="­" right="Ã" hadjustment="-2.5000000000" />
+<kerning left="Ä" right="	" hadjustment="-2.5000000000" />
+<kerning left="Y" right="?" hadjustment="-0.5000000000" />
 <kerning left="U" right="Á" hadjustment="-3.0000000000" />
+<kerning left="­" right="Ä" hadjustment="-2.5000000000" />
+<kerning left="B" right="quote" hadjustment="-0.7500000000" />
+<kerning left="Ë" right="Ô" hadjustment="-1.0000000000" />
 <kerning left="U" right="Â" hadjustment="-3.0000000000" />
 <kerning left="Y" right="A" hadjustment="-7.2500000000" />
+<kerning left="­" right="Å" hadjustment="-2.5000000000" />
 <kerning left="Ã" right="O" hadjustment="-2.5000000000" />
+<kerning left="Ë" right="Õ" hadjustment="-1.0000000000" />
+<kerning left="T" right="Ò" hadjustment="-2.5000000000" />
 <kerning left="U" right="Ã" hadjustment="-3.0000000000" />
+<kerning left="Ë" right="Ö" hadjustment="-1.0000000000" />
 <kerning left="U" right="Ä" hadjustment="-3.0000000000" />
 <kerning left="Ã" right="Q" hadjustment="-2.5000000000" />
+<kerning left="Y" right="C" hadjustment="-2.7500000000" />
+<kerning left="T" right="Ô" hadjustment="-2.5000000000" />
+<kerning left="Ô" right="&apos;" hadjustment="-1.0000000000" />
 <kerning left="U" right="Å" hadjustment="-3.0000000000" />
+<kerning left="Y" right="D" hadjustment="0.0000000000" />
+<kerning left="Ë" right="Ø" hadjustment="-1.0000000000" />
+<kerning left="T" right="Õ" hadjustment="-2.5000000000" />
 <kerning left="Ã" right="S" hadjustment="-1.0000000000" />
+<kerning left="T" right="Ö" hadjustment="-2.5000000000" />
 <kerning left="Å" right="Ÿ" hadjustment="-7.2500000000" />
 <kerning left="Ã" right="T" hadjustment="-7.7500000000" />
 <kerning left="Ã" right="U" hadjustment="-3.0000000000" />
+<kerning left="Y" right="G" hadjustment="-2.7500000000" />
+<kerning left="T" right="Ø" hadjustment="-2.5000000000" />
+<kerning left="…" right="Ÿ" hadjustment="-6.0000000000" />
 <kerning left="Ã" right="V" hadjustment="-7.0000000000" />
+<kerning left="Ô" right="," hadjustment="-4.2500000000" />
 <kerning left="Ã" right="W" hadjustment="-3.0000000000" />
+<kerning left="Ä" right="−" hadjustment="-2.5000000000" />
+<kerning left="Ô" right="." hadjustment="-3.5000000000" />
+<kerning left="Y" right="J" hadjustment="-7.0000000000" />
+<kerning left="Y" right="…" hadjustment="-6.0000000000" />
 <kerning left="A" right="$" hadjustment="-1.0000000000" />
 <kerning left="Ã" right="Y" hadjustment="-7.2500000000" />
+<kerning left="Q" right="?" hadjustment="-1.0000000000" />
 <kerning left="A" right="&apos;" hadjustment="-9.0000000000" />
 <kerning left="Q" right="A" hadjustment="-1.5000000000" />
 <kerning left="V" right="À" hadjustment="-7.0000000000" />
+<kerning left="Y" right="O" hadjustment="-2.7500000000" />
 <kerning left="Ü" right="A" hadjustment="-3.0000000000" />
 <kerning left="V" right="Á" hadjustment="-7.0000000000" />
 <kerning left="V" right="Â" hadjustment="-7.0000000000" />
+<kerning left="Y" right="Q" hadjustment="-2.7500000000" />
 <kerning left="V" right="Ã" hadjustment="-7.0000000000" />
 <kerning left="V" right="Ä" hadjustment="-7.0000000000" />
+<kerning left="Y" right="S" hadjustment="-2.0000000000" />
+<kerning left="Ÿ" right="…" hadjustment="-6.0000000000" />
 <kerning left="V" right="Å" hadjustment="-7.0000000000" />
 <kerning left="A" right="." hadjustment="0.0000000000" />
+<kerning left="À" right="−" hadjustment="-2.5000000000" />
+<kerning left="V" right="Ç" hadjustment="-2.5000000000" />
 <kerning left="–" right="A" hadjustment="-2.5000000000" />
+<kerning left="O" right="Ÿ" hadjustment="-2.7500000000" />
+<kerning left="Ü" right="J" hadjustment="-0.5000000000" />
 <kerning left="Ä" right="$" hadjustment="-1.0000000000" />
+<kerning left="¥" right="$" hadjustment="-2.0000000000" />
+<kerning left="Ó " right="Ÿ" hadjustment="-2.7500000000" />
+<kerning left="Ô" right="?" hadjustment="-1.0000000000" />
 <kerning left="Ä" right="&apos;" hadjustment="-9.0000000000" />
 <kerning left="Ô" right="A" hadjustment="-2.5000000000" />
+<kerning left="È" right="Š" hadjustment="-0.2500000000" />
+<kerning left="O" right="Ž" hadjustment="-1.5000000000" />
+<kerning left="." right="Š" hadjustment="0.0000000000" />
 <kerning left="W" right="À" hadjustment="-3.0000000000" />
 <kerning left="W" right="Á" hadjustment="-3.0000000000" />
+<kerning left="Ó " right="Ž" hadjustment="-1.5000000000" />
 <kerning left="W" right="Â" hadjustment="-3.0000000000" />
+<kerning left="V" right="Ò" hadjustment="-2.5000000000" />
+<kerning left="Q" right="T" hadjustment="-2.5000000000" />
 <kerning left="W" right="Ã" hadjustment="-3.0000000000" />
+<kerning left="Â" right="null" hadjustment="-2.5000000000" />
+<kerning left="Ü" right="S" hadjustment="0.0000000000" />
+<kerning left="¥" right="," hadjustment="-6.0000000000" />
 <kerning left="W" right="Ä" hadjustment="-3.0000000000" />
+<kerning left="V" right="Ô" hadjustment="-2.5000000000" />
+<kerning left="Q" right="V" hadjustment="-2.5000000000" />
+<kerning left="Ž" right="$" hadjustment="-1.0000000000" />
 <kerning left="W" right="Å" hadjustment="-3.0000000000" />
 <kerning left="Ä" right="." hadjustment="0.0000000000" />
+<kerning left="V" right="Õ" hadjustment="-2.5000000000" />
+<kerning left="Q" right="W" hadjustment="-0.7500000000" />
+<kerning left="¥" right="." hadjustment="-6.0000000000" />
+<kerning left="V" right="Ö" hadjustment="-2.5000000000" />
+<kerning left="Q" right="X" hadjustment="-1.5000000000" />
 <kerning left="A" right="?" hadjustment="-6.5000000000" />
+<kerning left="W" right="Ç" hadjustment="-0.7500000000" />
+<kerning left="Ç" right="Ÿ" hadjustment="-2.2500000000" />
+<kerning left="Ô" right="J" hadjustment="-0.5000000000" />
+<kerning left="Q" right="Y" hadjustment="-2.7500000000" />
+<kerning left="V" right="Ø" hadjustment="-2.5000000000" />
+<kerning left="Q" right="Z" hadjustment="-1.0000000000" />
+<kerning left="Ü" right="X" hadjustment="-0.2500000000" />
+<kerning left="Z" right="$" hadjustment="-1.0000000000" />
+<kerning left="P" right="Ÿ" hadjustment="-1.0000000000" />
+<kerning left="Ü" right="Z" hadjustment="-0.2500000000" />
 <kerning left="A" right="C" hadjustment="-2.5000000000" />
+<kerning left="­" right="A" hadjustment="-2.5000000000" />
+<kerning left="Ç" right="Ž" hadjustment="-0.7500000000" />
+<kerning left="D" right="quote" hadjustment="-1.0000000000" />
+<kerning left="–" right="S" hadjustment="-0.2500000000" />
+<kerning left="–" right="T" hadjustment="-5.0000000000" />
 <kerning left="A" right="G" hadjustment="-2.5000000000" />
+<kerning left="Á" right="null" hadjustment="-2.5000000000" />
+<kerning left="É" right="Š" hadjustment="-0.2500000000" />
+<kerning left="P" right="Ž" hadjustment="-1.0000000000" />
+<kerning left="–" right="V" hadjustment="-2.5000000000" />
+<kerning left="–" right="W" hadjustment="-0.5000000000" />
+<kerning left="Ô" right="T" hadjustment="-2.5000000000" />
+<kerning left="–" right="X" hadjustment="-3.0000000000" />
 <kerning left="A" right="J" hadjustment="0.0000000000" />
+<kerning left="W" right="Ò" hadjustment="-0.7500000000" />
+<kerning left="R" right="Š" hadjustment="-0.7500000000" />
+<kerning left="Ô" right="V" hadjustment="-2.5000000000" />
+<kerning left="–" right="Z" hadjustment="-2.0000000000" />
+<kerning left="Ô" right="W" hadjustment="-0.7500000000" />
+<kerning left="W" right="Ô" hadjustment="-0.7500000000" />
+<kerning left="“" right="$" hadjustment="-0.5000000000" />
+<kerning left="W" right="Õ" hadjustment="-0.7500000000" />
+<kerning left="Ô" right="X" hadjustment="-2.0000000000" />
 <kerning left="Ä" right="?" hadjustment="-6.5000000000" />
+<kerning left="W" right="Ö" hadjustment="-0.7500000000" />
+<kerning left="Ô" right="Y" hadjustment="-2.7500000000" />
+<kerning left="R" right="$" hadjustment="-0.7500000000" />
+<kerning left="¥" right="?" hadjustment="-0.5000000000" />
 <kerning left="A" right="O" hadjustment="-2.5000000000" />
+<kerning left="X" right="Ç" hadjustment="-2.0000000000" />
+<kerning left="Ô" right="Z" hadjustment="-1.5000000000" />
+<kerning left="." right="Ÿ" hadjustment="-6.0000000000" />
 <kerning left="¥" right="A" hadjustment="-7.2500000000" />
+<kerning left="G" right="quote" hadjustment="-1.0000000000" />
+<kerning left="W" right="Ø" hadjustment="-0.7500000000" />
+<kerning left="Ý" right="$" hadjustment="-2.0000000000" />
 <kerning left="A" right="Q" hadjustment="-2.5000000000" />
+<kerning left="R" right="&apos;" hadjustment="-1.2500000000" />
 <kerning left="Ä" right="C" hadjustment="-2.5000000000" />
+<kerning left="¥" right="C" hadjustment="-2.7500000000" />
+<kerning left="Q" right="Ÿ" hadjustment="-2.7500000000" />
 <kerning left="A" right="S" hadjustment="-1.0000000000" />
+<kerning left="¥" right="D" hadjustment="0.0000000000" />
 <kerning left="A" right="T" hadjustment="-7.7500000000" />
 <kerning left="A" right="U" hadjustment="-3.0000000000" />
 <kerning left="A" right="V" hadjustment="-7.0000000000" />
 <kerning left="Ä" right="G" hadjustment="-2.5000000000" />
+<kerning left="¥" right="G" hadjustment="-2.7500000000" />
 <kerning left="A" right="W" hadjustment="-3.0000000000" />
+<kerning left="Ê" right="Š" hadjustment="-0.2500000000" />
+<kerning left="Q" right="Ž" hadjustment="-1.0000000000" />
+<kerning left="Ž" right="?" hadjustment="-0.5000000000" />
 <kerning left="A" right="divis" hadjustment="-2.5000000000" />
 <kerning left="Y" right="À" hadjustment="-7.2500000000" />
+<kerning left="Ý" right="," hadjustment="-6.0000000000" />
 <kerning left="A" right="Y" hadjustment="-7.2500000000" />
 <kerning left="Ä" right="J" hadjustment="0.0000000000" />
 <kerning left="Y" right="Á" hadjustment="-7.2500000000" />
+<kerning left="—" right="$" hadjustment="-0.2500000000" />
+<kerning left="¥" right="J" hadjustment="-7.0000000000" />
 <kerning left="Y" right="Â" hadjustment="-7.2500000000" />
+<kerning left="X" right="Ò" hadjustment="-2.0000000000" />
+<kerning left="Ý" right="." hadjustment="-6.0000000000" />
+<kerning left="Ž" right="–" hadjustment="-2.0000000000" />
 <kerning left="Y" right="Ã" hadjustment="-7.2500000000" />
+<kerning left="Ž" right="C" hadjustment="-1.5000000000" />
+<kerning left="Ž" right="—" hadjustment="-2.0000000000" />
 <kerning left="Y" right="Ä" hadjustment="-7.2500000000" />
+<kerning left="Å" right="	" hadjustment="-2.5000000000" />
+<kerning left="X" right="Ô" hadjustment="-2.0000000000" />
+<kerning left="Z" right="?" hadjustment="-0.5000000000" />
 <kerning left="Y" right="Å" hadjustment="-7.2500000000" />
+<kerning left="X" right="Õ" hadjustment="-2.0000000000" />
 <kerning left="Ä" right="O" hadjustment="-2.5000000000" />
+<kerning left="X" right="Ö" hadjustment="-2.0000000000" />
+<kerning left="¥" right="O" hadjustment="-2.7500000000" />
+<kerning left="Y" right="Ç" hadjustment="-2.7500000000" />
+<kerning left="Ž" right="G" hadjustment="-1.5000000000" />
 <kerning left="Ä" right="Q" hadjustment="-2.5000000000" />
+<kerning left="Z" right="C" hadjustment="-1.5000000000" />
+<kerning left="X" right="Ø" hadjustment="-2.0000000000" />
+<kerning left="Õ" right="&apos;" hadjustment="-1.0000000000" />
+<kerning left="¥" right="Q" hadjustment="-2.7500000000" />
+<kerning left="X" right="Ù" hadjustment="-0.2500000000" />
 <kerning left="Ä" right="S" hadjustment="-1.0000000000" />
+<kerning left="¥" right="S" hadjustment="-2.0000000000" />
+<kerning left="X" right="Ú" hadjustment="-0.2500000000" />
+<kerning left="Ž" right="J" hadjustment="-0.5000000000" />
 <kerning left="Ä" right="T" hadjustment="-7.7500000000" />
+<kerning left="J" right="," hadjustment="-2.5000000000" />
+<kerning left="X" right="Û" hadjustment="-0.2500000000" />
 <kerning left="Ä" right="U" hadjustment="-3.0000000000" />
+<kerning left="Z" right="G" hadjustment="-1.5000000000" />
+<kerning left="X" right="Ü" hadjustment="-0.2500000000" />
 <kerning left="Ä" right="V" hadjustment="-7.0000000000" />
+<kerning left="J" right="." hadjustment="-1.7500000000" />
+<kerning left="Õ" right="," hadjustment="-4.2500000000" />
 <kerning left="Ä" right="W" hadjustment="-3.0000000000" />
+<kerning left="space" right="‚" hadjustment="0.0000000000" />
+<kerning left="Ë" right="Š" hadjustment="-0.2500000000" />
+<kerning left="Ž" right="O" hadjustment="-1.5000000000" />
+<kerning left="Õ" right="." hadjustment="-3.5000000000" />
+<kerning left="R" right="Ž" hadjustment="-1.0000000000" />
+<kerning left="Z" right="J" hadjustment="-0.5000000000" />
 <kerning left="Ä" right="Y" hadjustment="-7.2500000000" />
+<kerning left="space" right="“" hadjustment="-1.7500000000" />
 <kerning left="“" right="A" hadjustment="-9.0000000000" />
+<kerning left="Ž" right="Q" hadjustment="-1.5000000000" />
+<kerning left="R" right="?" hadjustment="-1.0000000000" />
+<kerning left="Y" right="Ò" hadjustment="-2.7500000000" />
+<kerning left="T" right="Š" hadjustment="-1.5000000000" />
+<kerning left="B" right="&apos;" hadjustment="-0.7500000000" />
+<kerning left="“" right="C" hadjustment="-1.7500000000" />
+<kerning left="Ž" right="S" hadjustment="-1.0000000000" />
+<kerning left="Ý" right="?" hadjustment="-0.5000000000" />
+<kerning left="Y" right="Ô" hadjustment="-2.7500000000" />
+<kerning left="Z" right="O" hadjustment="-1.5000000000" />
 <kerning left="Ý" right="A" hadjustment="-7.2500000000" />
+<kerning left="R" right="C" hadjustment="-0.7500000000" />
+<kerning left="Y" right="Õ" hadjustment="-2.7500000000" />
+<kerning left="−" right="A" hadjustment="-2.5000000000" />
+<kerning left="Y" right="Ö" hadjustment="-2.7500000000" />
+<kerning left="Z" right="Q" hadjustment="-1.5000000000" />
+<kerning left="Ý" right="C" hadjustment="-2.7500000000" />
+<kerning left="Z" right="Ç" hadjustment="-1.5000000000" />
+<kerning left="Ý" right="D" hadjustment="0.0000000000" />
+<kerning left="Y" right="Ø" hadjustment="-2.7500000000" />
+<kerning left="Z" right="S" hadjustment="-1.0000000000" />
+<kerning left="R" right="G" hadjustment="-0.7500000000" />
+<kerning left="null" right="A" hadjustment="-2.5000000000" />
+<kerning left="“" right="J" hadjustment="-6.0000000000" />
+<kerning left="S" right="Ÿ" hadjustment="-2.5000000000" />
+<kerning left="‐" right="À" hadjustment="-2.5000000000" />
+<kerning left="Ý" right="G" hadjustment="-2.7500000000" />
+<kerning left="‐" right="Á" hadjustment="-2.5000000000" />
+<kerning left="R" right="J" hadjustment="-1.0000000000" />
+<kerning left="‐" right="Â" hadjustment="-2.5000000000" />
 <kerning left="Ò" right="À" hadjustment="-2.5000000000" />
 <kerning left="—" right="A" hadjustment="-2.5000000000" />
+<kerning left="‐" right="Ã" hadjustment="-2.5000000000" />
 <kerning left="Ò" right="Á" hadjustment="-2.5000000000" />
+<kerning left="Ý" right="J" hadjustment="-7.0000000000" />
+<kerning left="‐" right="Ä" hadjustment="-2.5000000000" />
 <kerning left="Ò" right="Â" hadjustment="-2.5000000000" />
 <kerning left="Å" right="$" hadjustment="-1.0000000000" />
+<kerning left="S" right="Ž" hadjustment="-1.0000000000" />
+<kerning left="‐" right="Å" hadjustment="-2.5000000000" />
 <kerning left="Ò" right="Ã" hadjustment="-2.5000000000" />
 <kerning left="J" right="A" hadjustment="-2.0000000000" />
+<kerning left="Õ" right="?" hadjustment="-1.0000000000" />
 <kerning left="Ò" right="Ä" hadjustment="-2.5000000000" />
 <kerning left="Á" right="quote" hadjustment="-9.0000000000" />
+<kerning left="R" right="O" hadjustment="-0.7500000000" />
+<kerning left="Ò" right="¥" hadjustment="-2.7500000000" />
 <kerning left="Õ" right="A" hadjustment="-2.5000000000" />
 <kerning left="Ò" right="Å" hadjustment="-2.5000000000" />
 <kerning left="Å" right="&apos;" hadjustment="-9.0000000000" />
+<kerning left="Z" right="Ò" hadjustment="-1.5000000000" />
+<kerning left="U" right="Š" hadjustment="0.0000000000" />
+<kerning left="Ý" right="O" hadjustment="-2.7500000000" />
+<kerning left="R" right="Q" hadjustment="-0.7500000000" />
+<kerning left="“" right="S" hadjustment="-0.5000000000" />
+<kerning left="Z" right="Ô" hadjustment="-1.5000000000" />
+<kerning left="−" right="À" hadjustment="-2.5000000000" />
 <kerning left="Ã" right="Ó " hadjustment="-2.5000000000" />
+<kerning left="Z" right="Õ" hadjustment="-1.5000000000" />
+<kerning left="Ý" right="Q" hadjustment="-2.7500000000" />
+<kerning left="R" right="S" hadjustment="-0.7500000000" />
+<kerning left="−" right="Á" hadjustment="-2.5000000000" />
+<kerning left="Z" right="Ö" hadjustment="-1.5000000000" />
+<kerning left="R" right="T" hadjustment="-1.7500000000" />
+<kerning left="−" right="Â" hadjustment="-2.5000000000" />
+<kerning left="R" right="U" hadjustment="-0.2500000000" />
+<kerning left="Ý" right="S" hadjustment="-2.0000000000" />
+<kerning left="−" right="Ã" hadjustment="-2.5000000000" />
+<kerning left="Z" right="Ø" hadjustment="-1.5000000000" />
+<kerning left="R" right="V" hadjustment="-1.7500000000" />
+<kerning left="−" right="Ä" hadjustment="-2.5000000000" />
 <kerning left="Å" right="." hadjustment="0.0000000000" />
+<kerning left="space" right="&apos;" hadjustment="-1.0000000000" />
+<kerning left="R" right="W" hadjustment="-0.2500000000" />
+<kerning left="−" right="Å" hadjustment="-2.5000000000" />
+<kerning left="‑" right="À" hadjustment="-2.5000000000" />
+<kerning left="B" right="?" hadjustment="-1.0000000000" />
+<kerning left="Õ" right="J" hadjustment="-0.5000000000" />
+<kerning left="‑" right="Á" hadjustment="-2.5000000000" />
+<kerning left="R" right="Z" hadjustment="-1.0000000000" />
+<kerning left="‑" right="Â" hadjustment="-2.5000000000" />
 <kerning left="Ó" right="À" hadjustment="-2.5000000000" />
 <kerning left="B" right="A" hadjustment="-1.0000000000" />
+<kerning left="‑" right="Ã" hadjustment="-2.5000000000" />
 <kerning left="Ó" right="Á" hadjustment="-2.5000000000" />
+<kerning left="A" right="−" hadjustment="-2.5000000000" />
+<kerning left="‑" right="Ä" hadjustment="-2.5000000000" />
 <kerning left="Ó" right="Â" hadjustment="-2.5000000000" />
+<kerning left="L" right="quote" hadjustment="-7.0000000000" />
+<kerning left="‑" right="Å" hadjustment="-2.5000000000" />
 <kerning left="Ó" right="Ã" hadjustment="-2.5000000000" />
+<kerning left="—" right="S" hadjustment="-0.2500000000" />
 <kerning left="Ó" right="Ä" hadjustment="-2.5000000000" />
+<kerning left="—" right="T" hadjustment="-5.0000000000" />
 <kerning left="Ó" right="Å" hadjustment="-2.5000000000" />
+<kerning left="V" right="Š" hadjustment="-1.5000000000" />
+<kerning left="—" right="V" hadjustment="-2.5000000000" />
+<kerning left="—" right="W" hadjustment="-0.5000000000" />
+<kerning left="Õ" right="T" hadjustment="-2.5000000000" />
+<kerning left="—" right="X" hadjustment="-3.0000000000" />
+<kerning left="Õ" right="V" hadjustment="-2.5000000000" />
+<kerning left="J" right="X" hadjustment="0.0000000000" />
+<kerning left="—" right="Z" hadjustment="-2.0000000000" />
+<kerning left="Õ" right="W" hadjustment="-0.7500000000" />
+<kerning left="Õ" right="X" hadjustment="-2.0000000000" />
+<kerning left="J" right="Z" hadjustment="0.0000000000" />
 <kerning left="Å" right="?" hadjustment="-6.5000000000" />
+<kerning left="Ò" right="Ý" hadjustment="-2.7500000000" />
+<kerning left="Õ" right="Y" hadjustment="-2.7500000000" />
+<kerning left="‒" right="À" hadjustment="-2.5000000000" />
+<kerning left="Õ" right="Z" hadjustment="-1.5000000000" />
+<kerning left="‒" right="Á" hadjustment="-2.5000000000" />
+<kerning left="‒" right="Â" hadjustment="-2.5000000000" />
 <kerning left="Ô" right="À" hadjustment="-2.5000000000" />
+<kerning left="S" right="&apos;" hadjustment="-0.2500000000" />
 <kerning left="Å" right="C" hadjustment="-2.5000000000" />
+<kerning left="‒" right="Ã" hadjustment="-2.5000000000" />
 <kerning left="Ô" right="Á" hadjustment="-2.5000000000" />
+<kerning left="‒" right="Ä" hadjustment="-2.5000000000" />
 <kerning left="Ô" right="Â" hadjustment="-2.5000000000" />
-<kerning left="À" right="quote" hadjustment="-9.0000000000" />
+<kerning left="U" right="Ž" hadjustment="-0.2500000000" />
+<kerning left="‒" right="Å" hadjustment="-2.5000000000" />
 <kerning left="Ô" right="Ã" hadjustment="-2.5000000000" />
+<kerning left="À" right="quote" hadjustment="-9.0000000000" />
+<kerning left="Ã" right="null" hadjustment="-2.5000000000" />
+<kerning left="B" right="T" hadjustment="-2.0000000000" />
 <kerning left="Ô" right="Ä" hadjustment="-2.5000000000" />
+<kerning left="Ô" right="¥" hadjustment="-2.7500000000" />
 <kerning left="Å" right="G" hadjustment="-2.5000000000" />
 <kerning left="Ô" right="Å" hadjustment="-2.5000000000" />
 <kerning left="Â" right="Ó " hadjustment="-2.5000000000" />
+<kerning left="B" right="V" hadjustment="-2.0000000000" />
+<kerning left="S" right="," hadjustment="-0.5000000000" />
+<kerning left="B" right="W" hadjustment="-0.5000000000" />
+<kerning left="	" right="A" hadjustment="-2.5000000000" />
+<kerning left="B" right="X" hadjustment="-1.7500000000" />
+<kerning left="S" right="." hadjustment="-0.2500000000" />
 <kerning left="Å" right="J" hadjustment="0.0000000000" />
+<kerning left="B" right="Y" hadjustment="-2.7500000000" />
+<kerning left="B" right="Z" hadjustment="-0.5000000000" />
+<kerning left="K" right="$" hadjustment="-1.0000000000" />
+<kerning left="É" right="Ó " hadjustment="-1.0000000000" />
 <kerning left="Å" right="O" hadjustment="-2.5000000000" />
+<kerning left="B" right="divis" hadjustment="-0.5000000000" />
 <kerning left="–" right="À" hadjustment="-2.5000000000" />
 <kerning left="–" right="Á" hadjustment="-2.5000000000" />
 <kerning left="Å" right="Q" hadjustment="-2.5000000000" />
 <kerning left="Ã" right="quote" hadjustment="-9.0000000000" />
+<kerning left="Ö" right="&apos;" hadjustment="-1.0000000000" />
 <kerning left="–" right="Â" hadjustment="-2.5000000000" />
 <kerning left="Õ" right="À" hadjustment="-2.5000000000" />
 <kerning left="–" right="Ã" hadjustment="-2.5000000000" />
@@ -4643,263 +5259,769 @@
 <kerning left="–" right="Å" hadjustment="-2.5000000000" />
 <kerning left="Õ" right="Ã" hadjustment="-2.5000000000" />
 <kerning left="Å" right="U" hadjustment="-3.0000000000" />
+<kerning left="quote" right="Ó " hadjustment="-1.0000000000" />
 <kerning left="Õ" right="Ä" hadjustment="-2.5000000000" />
 <kerning left="Å" right="V" hadjustment="-7.0000000000" />
+<kerning left="Õ" right="¥" hadjustment="-2.7500000000" />
+<kerning left="Ö" right="," hadjustment="-4.2500000000" />
 <kerning left="Õ" right="Å" hadjustment="-2.5000000000" />
 <kerning left="Å" right="W" hadjustment="-3.0000000000" />
+<kerning left="X" right="Š" hadjustment="-1.0000000000" />
+<kerning left="Ö" right="." hadjustment="-3.5000000000" />
 <kerning left="Å" right="Ó " hadjustment="-2.5000000000" />
 <kerning left="Å" right="Y" hadjustment="-7.2500000000" />
+<kerning left="S" right="?" hadjustment="-1.0000000000" />
+<kerning left="E" right="divis" hadjustment="0.0000000000" />
 <kerning left="S" right="A" hadjustment="-1.0000000000" />
+<kerning left="null" right="À" hadjustment="-2.5000000000" />
+<kerning left="C" right="&apos;" hadjustment="0.0000000000" />
+<kerning left="null" right="Á" hadjustment="-2.5000000000" />
+<kerning left="null" right="Â" hadjustment="-2.5000000000" />
+<kerning left="null" right="Ã" hadjustment="-2.5000000000" />
+<kerning left="Ô" right="Ý" hadjustment="-2.7500000000" />
 <kerning left="—" right="À" hadjustment="-2.5000000000" />
+<kerning left="null" right="Ä" hadjustment="-2.5000000000" />
+<kerning left="¿" right="C" hadjustment="-2.0000000000" />
+<kerning left="$" right="divis" hadjustment="-0.2500000000" />
 <kerning left="—" right="Á" hadjustment="-2.5000000000" />
+<kerning left="null" right="Å" hadjustment="-2.5000000000" />
+<kerning left="C" right="," hadjustment="-2.0000000000" />
 <kerning left="—" right="Â" hadjustment="-2.5000000000" />
 <kerning left="Ö" right="À" hadjustment="-2.5000000000" />
 <kerning left="—" right="Ã" hadjustment="-2.5000000000" />
 <kerning left="Ö" right="Á" hadjustment="-2.5000000000" />
+<kerning left="C" right="." hadjustment="-1.5000000000" />
 <kerning left="Á" right="Ó " hadjustment="-2.5000000000" />
 <kerning left="—" right="Ä" hadjustment="-2.5000000000" />
 <kerning left="Ö" right="Â" hadjustment="-2.5000000000" />
 <kerning left="—" right="Å" hadjustment="-2.5000000000" />
 <kerning left="Ö" right="Ã" hadjustment="-2.5000000000" />
 <kerning left="Ö" right="Ä" hadjustment="-2.5000000000" />
+<kerning left="Ö" right="¥" hadjustment="-2.7500000000" />
 <kerning left="Ö" right="Å" hadjustment="-2.5000000000" />
+<kerning left="K" right="?" hadjustment="-3.0000000000" />
+<kerning left="Y" right="Š" hadjustment="-2.0000000000" />
+<kerning left="Ö" right="?" hadjustment="-1.0000000000" />
+<kerning left="S" right="O" hadjustment="0.0000000000" />
 <kerning left="Ö" right="A" hadjustment="-2.5000000000" />
+<kerning left="È" right="Ó " hadjustment="-1.0000000000" />
+<kerning left="K" right="C" hadjustment="-4.0000000000" />
+<kerning left="S" right="R" hadjustment="-0.5000000000" />
+<kerning left="K" right="G" hadjustment="-4.0000000000" />
+<kerning left="Õ" right="Ý" hadjustment="-2.7500000000" />
+<kerning left="S" right="T" hadjustment="-2.0000000000" />
 <kerning left="Â" right="quote" hadjustment="-9.0000000000" />
-<kerning left="C" right="A" hadjustment="-1.2500000000" />
+<kerning left="S" right="V" hadjustment="-2.0000000000" />
+<kerning left="K" right="J" hadjustment="-0.7500000000" />
+<kerning left="S" right="W" hadjustment="-0.5000000000" />
+<kerning left="S" right="X" hadjustment="-1.0000000000" />
+<kerning left="Ö" right="J" hadjustment="-0.5000000000" />
+<kerning left="S" right="Y" hadjustment="-2.5000000000" />
+<kerning left="S" right="Z" hadjustment="-1.0000000000" />
+<kerning left="Š" right="divis" hadjustment="-0.2500000000" />
 <kerning left="Ä" right="Ó " hadjustment="-2.5000000000" />
+<kerning left="C" right="A" hadjustment="-1.2500000000" />
+<kerning left="¥" right="Ó " hadjustment="-2.7500000000" />
+<kerning left="K" right="O" hadjustment="-4.0000000000" />
+<kerning left="Z" right="Š" hadjustment="-1.0000000000" />
+<kerning left="C" right="C" hadjustment="0.0000000000" />
+<kerning left="K" right="Q" hadjustment="-4.0000000000" />
+<kerning left="K" right="S" hadjustment="-1.0000000000" />
 <kerning left="Å" right="quote" hadjustment="-9.0000000000" />
+<kerning left="Ë" right="Ó " hadjustment="-1.0000000000" />
+<kerning left="K" right="U" hadjustment="-1.0000000000" />
+<kerning left="Ö" right="T" hadjustment="-2.5000000000" />
+<kerning left="Ö" right="Ý" hadjustment="-2.7500000000" />
+<kerning left="Ö" right="V" hadjustment="-2.5000000000" />
+<kerning left="Ý" right="Ó " hadjustment="-2.7500000000" />
 <kerning left="À" right="Ó " hadjustment="-2.5000000000" />
+<kerning left="Ö" right="W" hadjustment="-0.7500000000" />
 <kerning left="Ø" right="À" hadjustment="-2.5000000000" />
+<kerning left="Ö" right="X" hadjustment="-2.0000000000" />
 <kerning left="Ø" right="Á" hadjustment="-2.5000000000" />
+<kerning left="Ö" right="Y" hadjustment="-2.7500000000" />
+<kerning left="T" right="$" hadjustment="-1.5000000000" />
+<kerning left="Ž" right="divis" hadjustment="-2.0000000000" />
 <kerning left="Ø" right="Â" hadjustment="-2.5000000000" />
 <kerning left="Ÿ" right="À" hadjustment="-7.2500000000" />
+<kerning left="Ö" right="Z" hadjustment="-1.5000000000" />
 <kerning left="Ø" right="Ã" hadjustment="-2.5000000000" />
 <kerning left="Ÿ" right="Á" hadjustment="-7.2500000000" />
 <kerning left="Ø" right="Ä" hadjustment="-2.5000000000" />
 <kerning left="Ÿ" right="Â" hadjustment="-7.2500000000" />
+<kerning left="Ø" right="¥" hadjustment="-2.7500000000" />
 <kerning left="Ø" right="Å" hadjustment="-2.5000000000" />
 <kerning left="Ÿ" right="Ã" hadjustment="-7.2500000000" />
 <kerning left="Ÿ" right="Ä" hadjustment="-7.2500000000" />
 <kerning left="Ÿ" right="Å" hadjustment="-7.2500000000" />
+<kerning left="C" right="T" hadjustment="-2.0000000000" />
+<kerning left="C" right="V" hadjustment="-2.0000000000" />
+<kerning left="Ÿ" right="Ç" hadjustment="-2.7500000000" />
+<kerning left="T" right="," hadjustment="-8.0000000000" />
+<kerning left="C" right="W" hadjustment="-0.2500000000" />
+<kerning left="C" right="X" hadjustment="-1.5000000000" />
+<kerning left="T" right="." hadjustment="-8.0000000000" />
+<kerning left="C" right="Y" hadjustment="-2.2500000000" />
+<kerning left="C" right="Z" hadjustment="-0.7500000000" />
+<kerning left="L" right="$" hadjustment="-0.5000000000" />
 <kerning left="…" right="A" hadjustment="0.0000000000" />
 <kerning left="Ù" right="À" hadjustment="-3.0000000000" />
 <kerning left="Ù" right="Á" hadjustment="-3.0000000000" />
+<kerning left="…" right="C" hadjustment="-3.5000000000" />
+<kerning left="L" right="&apos;" hadjustment="-7.0000000000" />
 <kerning left="Ù" right="Â" hadjustment="-3.0000000000" />
 <kerning left="Ù" right="Ã" hadjustment="-3.0000000000" />
 <kerning left="Ù" right="Ä" hadjustment="-3.0000000000" />
+<kerning left="Ÿ" right="Ò" hadjustment="-2.7500000000" />
 <kerning left="Ù" right="Å" hadjustment="-3.0000000000" />
+<kerning left="…" right="G" hadjustment="-3.5000000000" />
+<kerning left="Ÿ" right="Ô" hadjustment="-2.7500000000" />
+<kerning left="Ÿ" right="Õ" hadjustment="-2.7500000000" />
+<kerning left="Ê" right="Ó " hadjustment="-1.0000000000" />
+<kerning left="Ÿ" right="Ö" hadjustment="-2.7500000000" />
 <kerning left="Ä" right="quote" hadjustment="-9.0000000000" />
+<kerning left="Ò" right="Ÿ" hadjustment="-2.7500000000" />
+<kerning left="Ÿ" right="Ø" hadjustment="-2.7500000000" />
+<kerning left="D" right="$" hadjustment="0.0000000000" />
+<kerning left="Ø" right="Ý" hadjustment="-2.7500000000" />
+<kerning left="…" right="O" hadjustment="-3.5000000000" />
 <kerning left="T" right="A" hadjustment="-7.7500000000" />
 <kerning left="‘" right="À" hadjustment="-9.0000000000" />
+<kerning left="„" right="C" hadjustment="-1.2500000000" />
+<kerning left="D" right="&apos;" hadjustment="-1.0000000000" />
 <kerning left="‘" right="Á" hadjustment="-9.0000000000" />
+<kerning left="Ò" right="Ž" hadjustment="-1.5000000000" />
+<kerning left="…" right="Q" hadjustment="-3.5000000000" />
 <kerning left="Ú" right="À" hadjustment="-3.0000000000" />
+<kerning left="Ä" right="null" hadjustment="-2.5000000000" />
 <kerning left="‘" right="Â" hadjustment="-9.0000000000" />
+<kerning left="T" right="C" hadjustment="-2.5000000000" />
 <kerning left="Ú" right="Á" hadjustment="-3.0000000000" />
 <kerning left="‘" right="Ã" hadjustment="-9.0000000000" />
 <kerning left="Ú" right="Â" hadjustment="-3.0000000000" />
 <kerning left="‘" right="Ä" hadjustment="-9.0000000000" />
+<kerning left="„" right="G" hadjustment="-1.2500000000" />
+<kerning left="…" right="T" hadjustment="-8.0000000000" />
 <kerning left="Ú" right="Ã" hadjustment="-3.0000000000" />
 <kerning left="‘" right="Å" hadjustment="-9.0000000000" />
+<kerning left="D" right="," hadjustment="-4.2500000000" />
+<kerning left="F" right="divis" hadjustment="0.0000000000" />
+<kerning left="…" right="U" hadjustment="-4.0000000000" />
 <kerning left="Ú" right="Ä" hadjustment="-3.0000000000" />
+<kerning left="T" right="G" hadjustment="-2.5000000000" />
+<kerning left="…" right="V" hadjustment="-5.5000000000" />
+<kerning left="Ã" right="‐" hadjustment="-2.5000000000" />
 <kerning left="Ú" right="Å" hadjustment="-3.0000000000" />
+<kerning left="‘" right="Ç" hadjustment="-1.7500000000" />
+<kerning left="D" right="." hadjustment="-3.5000000000" />
+<kerning left="…" right="W" hadjustment="-4.0000000000" />
+<kerning left="Ã" right="‑" hadjustment="-2.5000000000" />
+<kerning left="Ã" right="‒" hadjustment="-2.5000000000" />
+<kerning left="T" right="J" hadjustment="-8.5000000000" />
+<kerning left="O" right="quote" hadjustment="-1.0000000000" />
+<kerning left="…" right="Y" hadjustment="-6.0000000000" />
 <kerning left="Ã" right="–" hadjustment="-2.5000000000" />
 <kerning left="Ã" right="—" hadjustment="-2.5000000000" />
+<kerning left="L" right="?" hadjustment="-8.0000000000" />
+<kerning left="„" right="O" hadjustment="-1.2500000000" />
 <kerning left="quote" right="À" hadjustment="-9.0000000000" />
 <kerning left="quote" right="Á" hadjustment="-9.0000000000" />
+<kerning left="T" right="O" hadjustment="-2.5000000000" />
+<kerning left="„" right="Q" hadjustment="-1.2500000000" />
 <kerning left="Á" right="divis" hadjustment="-2.5000000000" />
 <kerning left="quote" right="Â" hadjustment="-9.0000000000" />
+<kerning left="L" right="C" hadjustment="-2.5000000000" />
+<kerning left="Ç" right="&apos;" hadjustment="0.0000000000" />
+<kerning left="Ã" right="‘" hadjustment="-8.0000000000" />
 <kerning left="Ã" right="’" hadjustment="-9.0000000000" />
 <kerning left="quote" right="Ã" hadjustment="-9.0000000000" />
+<kerning left="T" right="Q" hadjustment="-2.5000000000" />
 <kerning left="quote" right="Ä" hadjustment="-9.0000000000" />
+<kerning left="„" right="T" hadjustment="-8.0000000000" />
 <kerning left="Û" right="À" hadjustment="-3.0000000000" />
 <kerning left="quote" right="Å" hadjustment="-9.0000000000" />
+<kerning left="T" right="S" hadjustment="-1.5000000000" />
+<kerning left="–" right="Š" hadjustment="-0.2500000000" />
+<kerning left="„" right="U" hadjustment="-2.0000000000" />
 <kerning left="Û" right="Á" hadjustment="-3.0000000000" />
+<kerning left="Ã" right="“" hadjustment="-8.0000000000" />
+<kerning left="L" right="G" hadjustment="-2.5000000000" />
+<kerning left="„" right="V" hadjustment="-5.5000000000" />
 <kerning left="Ã" right="”" hadjustment="-9.0000000000" />
 <kerning left="Û" right="Â" hadjustment="-3.0000000000" />
+<kerning left="quote" right="Ç" hadjustment="-1.0000000000" />
+<kerning left="Ç" right="," hadjustment="-2.0000000000" />
+<kerning left="„" right="W" hadjustment="-4.0000000000" />
 <kerning left="Û" right="Ã" hadjustment="-3.0000000000" />
+<kerning left="R" right="quote" hadjustment="-1.2500000000" />
 <kerning left="Û" right="Ä" hadjustment="-3.0000000000" />
 <kerning left="A" right="¥" hadjustment="-7.2500000000" />
+<kerning left="Ç" right="." hadjustment="-1.5000000000" />
+<kerning left="„" right="Y" hadjustment="-6.0000000000" />
 <kerning left="Û" right="Å" hadjustment="-3.0000000000" />
+<kerning left="D" right="?" hadjustment="-1.0000000000" />
 <kerning left="A" right="Ç" hadjustment="-2.5000000000" />
 <kerning left="D" right="A" hadjustment="-2.5000000000" />
+<kerning left="L" right="O" hadjustment="-2.5000000000" />
+<kerning left="Ô" right="Ÿ" hadjustment="-2.7500000000" />
 <kerning left="Ã" right="…" hadjustment="0.0000000000" />
+<kerning left="L" right="Q" hadjustment="-2.5000000000" />
+<kerning left="L" right="divis" hadjustment="-5.5000000000" />
+<kerning left="A" right="­" hadjustment="-2.5000000000" />
+<kerning left="L" right="S" hadjustment="-0.5000000000" />
+<kerning left="quote" right="Ò" hadjustment="-1.0000000000" />
+<kerning left="L" right="T" hadjustment="-10.0000000000" />
+<kerning left="L" right="U" hadjustment="-3.5000000000" />
+<kerning left="Ô" right="Ž" hadjustment="-1.5000000000" />
+<kerning left="quote" right="Ô" hadjustment="-1.0000000000" />
 <kerning left="Ü" right="À" hadjustment="-3.0000000000" />
 <kerning left="B" right="À" hadjustment="-1.0000000000" />
+<kerning left="L" right="V" hadjustment="-9.0000000000" />
+<kerning left="quote" right="Õ" hadjustment="-1.0000000000" />
+<kerning left="Ÿ" right="$" hadjustment="-2.0000000000" />
+<kerning left="—" right="Š" hadjustment="-0.2500000000" />
 <kerning left="Ü" right="Á" hadjustment="-3.0000000000" />
 <kerning left="B" right="Á" hadjustment="-1.0000000000" />
+<kerning left="D" right="J" hadjustment="-0.2500000000" />
+<kerning left="L" right="W" hadjustment="-5.2500000000" />
+<kerning left="quote" right="Ö" hadjustment="-1.0000000000" />
 <kerning left="Ü" right="Â" hadjustment="-3.0000000000" />
+<kerning left="Â" right="‐" hadjustment="-2.5000000000" />
 <kerning left="A" right="Ò" hadjustment="-2.5000000000" />
 <kerning left="B" right="Â" hadjustment="-1.0000000000" />
+<kerning left="‚" right="¥" hadjustment="-6.0000000000" />
 <kerning left="Ü" right="Ã" hadjustment="-3.0000000000" />
+<kerning left="Â" right="‑" hadjustment="-2.5000000000" />
 <kerning left="A" right="Ó" hadjustment="-2.5000000000" />
 <kerning left="B" right="Ã" hadjustment="-1.0000000000" />
+<kerning left="L" right="Y" hadjustment="-9.2500000000" />
+<kerning left="quote" right="Ø" hadjustment="-1.0000000000" />
 <kerning left="Ü" right="Ä" hadjustment="-3.0000000000" />
+<kerning left="Â" right="‒" hadjustment="-2.5000000000" />
 <kerning left="A" right="Ô" hadjustment="-2.5000000000" />
 <kerning left="B" right="Ä" hadjustment="-1.0000000000" />
+<kerning left="B" right="¥" hadjustment="-2.7500000000" />
 <kerning left="Ü" right="Å" hadjustment="-3.0000000000" />
+<kerning left="Â" right="–" hadjustment="-2.5000000000" />
 <kerning left="A" right="Õ" hadjustment="-2.5000000000" />
 <kerning left="B" right="Å" hadjustment="-1.0000000000" />
-<kerning left="Â" right="–" hadjustment="-2.5000000000" />
-<kerning left="A" right="Ö" hadjustment="-2.5000000000" />
+<kerning left="‚" right="Ç" hadjustment="-1.2500000000" />
+<kerning left="U" right="$" hadjustment="0.0000000000" />
 <kerning left="Â" right="—" hadjustment="-2.5000000000" />
+<kerning left="A" right="Ö" hadjustment="-2.5000000000" />
 <kerning left="Ç" right="A" hadjustment="-1.2500000000" />
 <kerning left="A" right="Ø" hadjustment="-2.5000000000" />
+<kerning left="A" right="null" hadjustment="-2.5000000000" />
+<kerning left="Ÿ" right="," hadjustment="-6.0000000000" />
 <kerning left="A" right="Ù" hadjustment="-3.0000000000" />
+<kerning left="Ç" right="C" hadjustment="0.0000000000" />
 <kerning left="A" right="Ú" hadjustment="-3.0000000000" />
+<kerning left="D" right="S" hadjustment="0.0000000000" />
+<kerning left="Â" right="‘" hadjustment="-8.0000000000" />
+<kerning left="Õ" right="Ÿ" hadjustment="-2.7500000000" />
+<kerning left="Ÿ" right="." hadjustment="-6.0000000000" />
 <kerning left="Â" right="’" hadjustment="-9.0000000000" />
 <kerning left="A" right="Û" hadjustment="-3.0000000000" />
+<kerning left="D" right="T" hadjustment="-2.5000000000" />
 <kerning left="À" right="divis" hadjustment="-2.5000000000" />
 <kerning left="A" right="Ü" hadjustment="-3.0000000000" />
+<kerning left="É" right="–" hadjustment="0.0000000000" />
 <kerning left="A" right="Ý" hadjustment="-7.2500000000" />
+<kerning left="D" right="V" hadjustment="-2.5000000000" />
+<kerning left="É" right="—" hadjustment="0.0000000000" />
+<kerning left="U" right="," hadjustment="-4.0000000000" />
+<kerning left="–" right="Ž" hadjustment="-2.0000000000" />
+<kerning left="D" right="W" hadjustment="-0.7500000000" />
+<kerning left="Â" right="“" hadjustment="-8.0000000000" />
 <kerning left="Â" right="”" hadjustment="-9.0000000000" />
+<kerning left="D" right="X" hadjustment="-2.0000000000" />
+<kerning left="Õ" right="Ž" hadjustment="-1.5000000000" />
+<kerning left="U" right="." hadjustment="-4.0000000000" />
 <kerning left="Ý" right="À" hadjustment="-7.2500000000" />
 <kerning left="C" right="À" hadjustment="-1.2500000000" />
+<kerning left="D" right="Y" hadjustment="-2.7500000000" />
+<kerning left="‚" right="Ò" hadjustment="-1.2500000000" />
 <kerning left="Ý" right="Á" hadjustment="-7.2500000000" />
 <kerning left="C" right="Á" hadjustment="-1.2500000000" />
+<kerning left="D" right="Z" hadjustment="-1.5000000000" />
+<kerning left="É" right="‘" hadjustment="-1.0000000000" />
 <kerning left="Ý" right="Â" hadjustment="-7.2500000000" />
 <kerning left="C" right="Â" hadjustment="-1.2500000000" />
+<kerning left="É" right="’" hadjustment="-0.5000000000" />
+<kerning left="‚" right="Ô" hadjustment="-1.2500000000" />
+<kerning left="Q" right="quote" hadjustment="-1.0000000000" />
+<kerning left="$" right="&apos;" hadjustment="-0.2500000000" />
 <kerning left="Ý" right="Ã" hadjustment="-7.2500000000" />
 <kerning left="C" right="Ã" hadjustment="-1.2500000000" />
+<kerning left="‚" right="Õ" hadjustment="-1.2500000000" />
 <kerning left="Ý" right="Ä" hadjustment="-7.2500000000" />
+<kerning left="Å" right="‐" hadjustment="-2.5000000000" />
 <kerning left="C" right="Ä" hadjustment="-1.2500000000" />
+<kerning left="C" right="¥" hadjustment="-2.2500000000" />
+<kerning left="‚" right="Ö" hadjustment="-1.2500000000" />
 <kerning left="Ý" right="Å" hadjustment="-7.2500000000" />
+<kerning left="Å" right="‑" hadjustment="-2.5000000000" />
 <kerning left="C" right="Å" hadjustment="-1.2500000000" />
+<kerning left="É" right="“" hadjustment="-1.0000000000" />
+<kerning left="Å" right="‒" hadjustment="-2.5000000000" />
+<kerning left="É" right="”" hadjustment="-0.5000000000" />
+<kerning left="‚" right="Ø" hadjustment="-1.2500000000" />
 <kerning left="Å" right="–" hadjustment="-2.5000000000" />
+<kerning left="C" right="Ç" hadjustment="0.0000000000" />
+<kerning left="Ý" right="Ç" hadjustment="-2.7500000000" />
+<kerning left="Ø" right="&apos;" hadjustment="-1.0000000000" />
+<kerning left="$" right="," hadjustment="-0.5000000000" />
+<kerning left="‚" right="Ù" hadjustment="-2.0000000000" />
 <kerning left="A" right="Ó " hadjustment="-2.5000000000" />
 <kerning left="Ã" right="divis" hadjustment="-2.5000000000" />
 <kerning left="Â" right="…" hadjustment="0.0000000000" />
 <kerning left="Å" right="—" hadjustment="-2.5000000000" />
+<kerning left="‚" right="Ú" hadjustment="-2.0000000000" />
+<kerning left="Ž" right="Ç" hadjustment="-1.5000000000" />
+<kerning left="$" right="Ó " hadjustment="0.0000000000" />
+<kerning left="$" right="." hadjustment="-0.2500000000" />
+<kerning left="‚" right="Û" hadjustment="-2.0000000000" />
+<kerning left="Ç" right="T" hadjustment="-2.0000000000" />
+<kerning left="K" right="divis" hadjustment="-5.0000000000" />
+<kerning left="Ö" right="Ÿ" hadjustment="-2.7500000000" />
+<kerning left="‚" right="Ü" hadjustment="-2.0000000000" />
+<kerning left="‚" right="Ý" hadjustment="-6.0000000000" />
+<kerning left="Ÿ" right="?" hadjustment="-0.5000000000" />
+<kerning left="Ç" right="V" hadjustment="-2.0000000000" />
+<kerning left="Å" right="‘" hadjustment="-8.0000000000" />
+<kerning left="Ø" right="," hadjustment="-4.2500000000" />
 <kerning left="Ÿ" right="A" hadjustment="-7.2500000000" />
 <kerning left="Å" right="’" hadjustment="-9.0000000000" />
 <kerning left="quote" right="A" hadjustment="-9.0000000000" />
+<kerning left="B" right="Ý" hadjustment="-2.7500000000" />
+<kerning left="Ç" right="W" hadjustment="-0.2500000000" />
+<kerning left="—" right="Ž" hadjustment="-2.0000000000" />
 <kerning left="“" right="À" hadjustment="-9.0000000000" />
+<kerning left="Ç" right="X" hadjustment="-1.5000000000" />
+<kerning left="Ø" right="." hadjustment="-3.5000000000" />
+<kerning left="Á" right="‐" hadjustment="-2.5000000000" />
 <kerning left="“" right="Á" hadjustment="-9.0000000000" />
+<kerning left="Ç" right="Y" hadjustment="-2.2500000000" />
+<kerning left="Ÿ" right="C" hadjustment="-2.7500000000" />
+<kerning left="quote" right="C" hadjustment="-1.0000000000" />
+<kerning left="E" right="$" hadjustment="-0.2500000000" />
+<kerning left="Ö" right="Ž" hadjustment="-1.5000000000" />
+<kerning left="Á" right="‑" hadjustment="-2.5000000000" />
+<kerning left="À" right="	" hadjustment="-2.5000000000" />
 <kerning left="“" right="Â" hadjustment="-9.0000000000" />
 <kerning left="D" right="À" hadjustment="-2.5000000000" />
-<kerning left="“" right="Ã" hadjustment="-9.0000000000" />
+<kerning left="Ç" right="Z" hadjustment="-0.7500000000" />
+<kerning left="Ÿ" right="D" hadjustment="0.0000000000" />
+<kerning left="Å" right="“" hadjustment="-8.0000000000" />
+<kerning left="Á" right="‒" hadjustment="-2.5000000000" />
 <kerning left="Å" right="”" hadjustment="-9.0000000000" />
+<kerning left="“" right="Ã" hadjustment="-9.0000000000" />
 <kerning left="D" right="Á" hadjustment="-2.5000000000" />
-<kerning left="“" right="Ä" hadjustment="-9.0000000000" />
+<kerning left="&apos;" right="space" hadjustment="0.0000000000" />
 <kerning left="U" right="A" hadjustment="-3.0000000000" />
 <kerning left="Á" right="–" hadjustment="-2.5000000000" />
+<kerning left="“" right="Ä" hadjustment="-9.0000000000" />
 <kerning left="D" right="Â" hadjustment="-2.5000000000" />
-<kerning left="“" right="Å" hadjustment="-9.0000000000" />
+<kerning left="Ý" right="Ò" hadjustment="-2.7500000000" />
 <kerning left="Á" right="—" hadjustment="-2.5000000000" />
+<kerning left="“" right="Å" hadjustment="-9.0000000000" />
 <kerning left="D" right="Ã" hadjustment="-2.5000000000" />
+<kerning left="Ÿ" right="G" hadjustment="-2.7500000000" />
+<kerning left="quote" right="G" hadjustment="-1.0000000000" />
 <kerning left="D" right="Ä" hadjustment="-2.5000000000" />
+<kerning left="D" right="¥" hadjustment="-2.7500000000" />
+<kerning left="Ý" right="Ô" hadjustment="-2.7500000000" />
+<kerning left="Ž" right="Ò" hadjustment="-1.5000000000" />
+<kerning left="Ÿ" right="Š" hadjustment="-2.0000000000" />
 <kerning left="D" right="Å" hadjustment="-2.5000000000" />
+<kerning left="“" right="Ç" hadjustment="-1.7500000000" />
+<kerning left="Ý" right="Õ" hadjustment="-2.7500000000" />
+<kerning left="quote" right="J" hadjustment="-6.0000000000" />
+<kerning left="Ý" right="Ö" hadjustment="-2.7500000000" />
+<kerning left="Ž" right="Ô" hadjustment="-1.5000000000" />
+<kerning left="Ÿ" right="J" hadjustment="-7.0000000000" />
+<kerning left="¿" right="Ç" hadjustment="-2.0000000000" />
+<kerning left="Á" right="‘" hadjustment="-8.0000000000" />
+<kerning left="Ž" right="Õ" hadjustment="-1.5000000000" />
 <kerning left="Á" right="’" hadjustment="-9.0000000000" />
+<kerning left="Ý" right="Ø" hadjustment="-2.7500000000" />
+<kerning left="Ž" right="Ö" hadjustment="-1.5000000000" />
+<kerning left="È" right="–" hadjustment="0.0000000000" />
 <kerning left="Å" right="…" hadjustment="0.0000000000" />
-<kerning left="$" right="A" hadjustment="-1.0000000000" />
+<kerning left="È" right="—" hadjustment="0.0000000000" />
+<kerning left="Ž" right="Ø" hadjustment="-1.5000000000" />
+<kerning left="Š" right="&apos;" hadjustment="-0.2500000000" />
+<kerning left="$" right="?" hadjustment="-1.0000000000" />
+<kerning left="Á" right="“" hadjustment="-8.0000000000" />
+<kerning left="Ÿ" right="O" hadjustment="-2.7500000000" />
+<kerning left="&apos;" right="Ó " hadjustment="-1.0000000000" />
+<kerning left="quote" right="O" hadjustment="-1.0000000000" />
+<kerning left="U" right="J" hadjustment="-0.5000000000" />
 <kerning left="Á" right="”" hadjustment="-9.0000000000" />
+<kerning left="$" right="A" hadjustment="-1.0000000000" />
+<kerning left="C" right="Ý" hadjustment="-2.2500000000" />
+<kerning left="Ÿ" right="Q" hadjustment="-2.7500000000" />
+<kerning left="quote" right="Q" hadjustment="-1.0000000000" />
+<kerning left="È" right="$" hadjustment="-0.2500000000" />
+<kerning left="È" right="‘" hadjustment="-1.0000000000" />
+<kerning left="È" right="’" hadjustment="-0.5000000000" />
+<kerning left="Ø" right="?" hadjustment="-1.0000000000" />
+<kerning left="Ÿ" right="S" hadjustment="-2.0000000000" />
+<kerning left="Š" right="," hadjustment="-0.5000000000" />
+<kerning left="Ä" right="‐" hadjustment="-2.5000000000" />
 <kerning left="Ø" right="A" hadjustment="-2.5000000000" />
+<kerning left="K" right="Ó " hadjustment="-4.0000000000" />
+<kerning left="Š" right="." hadjustment="-0.2500000000" />
+<kerning left="Ä" right="‑" hadjustment="-2.5000000000" />
+<kerning left="È" right="“" hadjustment="-1.0000000000" />
+<kerning left="Ù" right="Š" hadjustment="0.0000000000" />
+<kerning left="Ä" right="‒" hadjustment="-2.5000000000" />
+<kerning left="È" right="”" hadjustment="-0.5000000000" />
 <kerning left="Ä" right="–" hadjustment="-2.5000000000" />
-<kerning left="Á" right="…" hadjustment="0.0000000000" />
+<kerning left="U" right="S" hadjustment="0.0000000000" />
 <kerning left="Ä" right="—" hadjustment="-2.5000000000" />
+<kerning left="Á" right="…" hadjustment="0.0000000000" />
 <kerning left="Â" right="divis" hadjustment="-2.5000000000" />
+<kerning left="E" right="Ç" hadjustment="-1.0000000000" />
+<kerning left="R" right="Ó " hadjustment="-0.7500000000" />
+<kerning left="Ä" right="‘" hadjustment="-8.0000000000" />
+<kerning left="U" right="X" hadjustment="-0.2500000000" />
 <kerning left="Ä" right="’" hadjustment="-9.0000000000" />
+<kerning left="E" right="?" hadjustment="0.0000000000" />
+<kerning left="Ø" right="J" hadjustment="-0.5000000000" />
+<kerning left="$" right="O" hadjustment="0.0000000000" />
+<kerning left="Ø" right="Ÿ" hadjustment="-2.7500000000" />
 <kerning left="À" right="$" hadjustment="-1.0000000000" />
+<kerning left="Ë" right="–" hadjustment="0.0000000000" />
+<kerning left="U" right="Z" hadjustment="-0.2500000000" />
+<kerning left="À" right="‐" hadjustment="-2.5000000000" />
+<kerning left="Ë" right="—" hadjustment="0.0000000000" />
+<kerning left="Ö" right="‘" hadjustment="-0.7500000000" />
+<kerning left="À" right="‑" hadjustment="-2.5000000000" />
+<kerning left="Å" right="null" hadjustment="-2.5000000000" />
+<kerning left="D" right="Ý" hadjustment="-2.7500000000" />
+<kerning left="Ä" right="“" hadjustment="-8.0000000000" />
+<kerning left="$" right="R" hadjustment="-0.5000000000" />
+<kerning left="À" right="‒" hadjustment="-2.5000000000" />
 <kerning left="Ä" right="”" hadjustment="-9.0000000000" />
 <kerning left="À" right="&apos;" hadjustment="-9.0000000000" />
+<kerning left="E" right="C" hadjustment="-1.0000000000" />
 <kerning left="À" right="–" hadjustment="-2.5000000000" />
+<kerning left="Ø" right="Ž" hadjustment="-1.5000000000" />
+<kerning left="$" right="T" hadjustment="-2.0000000000" />
+<kerning left="Ú" right="…" hadjustment="-4.0000000000" />
 <kerning left="À" right="—" hadjustment="-2.5000000000" />
 <kerning left="F" right="À" hadjustment="-5.0000000000" />
+<kerning left="Ë" right="‘" hadjustment="-1.0000000000" />
+<kerning left="Ö" right="“" hadjustment="-0.7500000000" />
+<kerning left="‘" right="Š" hadjustment="-0.5000000000" />
 <kerning left="F" right="Á" hadjustment="-5.0000000000" />
+<kerning left="Ë" right="’" hadjustment="-0.5000000000" />
+<kerning left="Ö" right="”" hadjustment="-1.2500000000" />
+<kerning left="$" right="V" hadjustment="-2.0000000000" />
 <kerning left="F" right="Â" hadjustment="-5.0000000000" />
+<kerning left="E" right="G" hadjustment="-1.0000000000" />
+<kerning left="E" right="Ò" hadjustment="-1.0000000000" />
+<kerning left="Ú" right="Š" hadjustment="0.0000000000" />
+<kerning left="$" right="W" hadjustment="-0.5000000000" />
+<kerning left="Š" right="?" hadjustment="-1.0000000000" />
+<kerning left="„" right="¥" hadjustment="-6.0000000000" />
 <kerning left="Å" right="divis" hadjustment="-2.5000000000" />
 <kerning left="F" right="Ã" hadjustment="-5.0000000000" />
+<kerning left="$" right="X" hadjustment="-1.0000000000" />
 <kerning left="Š" right="A" hadjustment="-1.0000000000" />
 <kerning left="F" right="Ä" hadjustment="-5.0000000000" />
+<kerning left="E" right="Ô" hadjustment="-1.0000000000" />
+<kerning left="À" right="‘" hadjustment="-8.0000000000" />
+<kerning left="Ë" right="“" hadjustment="-1.0000000000" />
+<kerning left="Ø" right="T" hadjustment="-2.5000000000" />
+<kerning left="$" right="Y" hadjustment="-2.5000000000" />
 <kerning left="À" right="’" hadjustment="-9.0000000000" />
 <kerning left="À" right="." hadjustment="0.0000000000" />
 <kerning left="F" right="Å" hadjustment="-5.0000000000" />
+<kerning left="„" right="Ç" hadjustment="-1.2500000000" />
+<kerning left="E" right="J" hadjustment="0.0000000000" />
+<kerning left="E" right="Õ" hadjustment="-1.0000000000" />
+<kerning left="Ë" right="”" hadjustment="-0.5000000000" />
+<kerning left="$" right="Z" hadjustment="-1.0000000000" />
+<kerning left="E" right="Ö" hadjustment="-1.0000000000" />
+<kerning left="Ø" right="V" hadjustment="-2.5000000000" />
 <kerning left="Ä" right="…" hadjustment="0.0000000000" />
+<kerning left="F" right="Ç" hadjustment="-1.0000000000" />
+<kerning left="Ø" right="W" hadjustment="-0.7500000000" />
+<kerning left="Ò" right="‘" hadjustment="-0.7500000000" />
+<kerning left="¥" right="…" hadjustment="-6.0000000000" />
+<kerning left="E" right="Ø" hadjustment="-1.0000000000" />
+<kerning left="À" right="“" hadjustment="-8.0000000000" />
+<kerning left="Ø" right="X" hadjustment="-2.0000000000" />
 <kerning left="À" right="”" hadjustment="-9.0000000000" />
+<kerning left="È" right="?" hadjustment="0.0000000000" />
+<kerning left="Ø" right="Y" hadjustment="-2.7500000000" />
+<kerning left="V" right="$" hadjustment="-1.5000000000" />
+<kerning left="E" right="O" hadjustment="-1.0000000000" />
+<kerning left="Ø" right="Z" hadjustment="-1.5000000000" />
+<kerning left="Ö" right="…" hadjustment="-3.5000000000" />
+<kerning left="Ò" right="“" hadjustment="-0.7500000000" />
+<kerning left="E" right="Q" hadjustment="-1.0000000000" />
+<kerning left="Ò" right="”" hadjustment="-1.2500000000" />
 <kerning left="$" right="À" hadjustment="-1.0000000000" />
+<kerning left="È" right="C" hadjustment="-1.0000000000" />
+<kerning left="Ç" right="‚" hadjustment="-0.5000000000" />
 <kerning left="$" right="Á" hadjustment="-1.0000000000" />
+<kerning left="E" right="S" hadjustment="-0.2500000000" />
 <kerning left="$" right="Â" hadjustment="-1.0000000000" />
+<kerning left="Ù" right="Ž" hadjustment="-0.2500000000" />
 <kerning left="$" right="Ã" hadjustment="-1.0000000000" />
+<kerning left="„" right="Ò" hadjustment="-1.2500000000" />
 <kerning left="$" right="Ä" hadjustment="-1.0000000000" />
+<kerning left="È" right="G" hadjustment="-1.0000000000" />
+<kerning left="$" right="¥" hadjustment="-2.5000000000" />
+<kerning left="V" right="," hadjustment="-5.5000000000" />
+<kerning left="Ý" right="…" hadjustment="-6.0000000000" />
 <kerning left="À" right="…" hadjustment="0.0000000000" />
 <kerning left="A" right="Š" hadjustment="-1.0000000000" />
 <kerning left="$" right="Å" hadjustment="-1.0000000000" />
+<kerning left="F" right="Ò" hadjustment="-1.0000000000" />
+<kerning left="Š" right="O" hadjustment="0.0000000000" />
+<kerning left="„" right="Ô" hadjustment="-1.2500000000" />
+<kerning left="Û" right="Š" hadjustment="0.0000000000" />
+<kerning left="„" right="Õ" hadjustment="-1.2500000000" />
+<kerning left="V" right="." hadjustment="-5.5000000000" />
+<kerning left="È" right="J" hadjustment="0.0000000000" />
+<kerning left="F" right="Ô" hadjustment="-1.0000000000" />
+<kerning left="G" right="¥" hadjustment="-2.2500000000" />
+<kerning left="„" right="Ö" hadjustment="-1.2500000000" />
+<kerning left="‘" right="$" hadjustment="-0.5000000000" />
+<kerning left="F" right="Õ" hadjustment="-1.0000000000" />
+<kerning left="Ò" right="…" hadjustment="-3.5000000000" />
+<kerning left="Š" right="R" hadjustment="-0.5000000000" />
 <kerning left="À" right="?" hadjustment="-6.5000000000" />
+<kerning left="F" right="Ö" hadjustment="-1.0000000000" />
+<kerning left="„" right="Ø" hadjustment="-1.2500000000" />
+<kerning left="Š" right="T" hadjustment="-2.0000000000" />
+<kerning left="„" right="Ù" hadjustment="-2.0000000000" />
+<kerning left="Ê" right="–" hadjustment="0.0000000000" />
+<kerning left="F" right="Ø" hadjustment="-1.0000000000" />
+<kerning left="Ù" right="$" hadjustment="0.0000000000" />
+<kerning left="," right="space" hadjustment="0.0000000000" />
+<kerning left="„" right="Ú" hadjustment="-2.0000000000" />
+<kerning left="Ç" right="…" hadjustment="-1.2500000000" />
+<kerning left="È" right="O" hadjustment="-1.0000000000" />
+<kerning left="Ê" right="—" hadjustment="0.0000000000" />
+<kerning left="F" right="Ó " hadjustment="-1.0000000000" />
+<kerning left="Õ" right="‘" hadjustment="-0.7500000000" />
+<kerning left="Š" right="V" hadjustment="-2.0000000000" />
+<kerning left="„" right="Û" hadjustment="-2.0000000000" />
 <kerning left="À" right="C" hadjustment="-2.5000000000" />
+<kerning left="Š" right="W" hadjustment="-0.5000000000" />
+<kerning left="„" right="Ü" hadjustment="-2.0000000000" />
+<kerning left="È" right="Q" hadjustment="-1.0000000000" />
+<kerning left="Š" right="X" hadjustment="-1.0000000000" />
+<kerning left="„" right="Ý" hadjustment="-6.0000000000" />
+<kerning left="X" right="Ó " hadjustment="-2.0000000000" />
+<kerning left="Š" right="Y" hadjustment="-2.5000000000" />
+<kerning left="Ù" right="…" hadjustment="-4.0000000000" />
+<kerning left="È" right="S" hadjustment="-0.2500000000" />
+<kerning left="Ê" right="‘" hadjustment="-1.0000000000" />
+<kerning left="Õ" right="“" hadjustment="-0.7500000000" />
+<kerning left="Š" right="Z" hadjustment="-1.0000000000" />
 <kerning left="À" right="G" hadjustment="-2.5000000000" />
+<kerning left="Ê" right="’" hadjustment="-0.5000000000" />
+<kerning left="Õ" right="”" hadjustment="-1.2500000000" />
+<kerning left="$" right="Ò" hadjustment="0.0000000000" />
+<kerning left="Ú" right="Ž" hadjustment="-0.2500000000" />
+<kerning left="Ù" right="," hadjustment="-4.0000000000" />
 <kerning left="À" right="J" hadjustment="0.0000000000" />
+<kerning left="Ê" right="“" hadjustment="-1.0000000000" />
+<kerning left="$" right="Ô" hadjustment="0.0000000000" />
 <kerning left="Ä" right="divis" hadjustment="-2.5000000000" />
+<kerning left="Ê" right="”" hadjustment="-0.5000000000" />
+<kerning left="$" right="Õ" hadjustment="0.0000000000" />
+<kerning left="Ü" right="Š" hadjustment="0.0000000000" />
+<kerning left="Ù" right="." hadjustment="-4.0000000000" />
+<kerning left="F" right="$" hadjustment="-0.5000000000" />
+<kerning left="$" right="Ö" hadjustment="0.0000000000" />
+<kerning left="Á" right="	" hadjustment="-2.5000000000" />
+<kerning left="$" right="Ø" hadjustment="0.0000000000" />
 <kerning left="À" right="O" hadjustment="-2.5000000000" />
 <kerning left="V" right="A" hadjustment="-7.0000000000" />
+<kerning left="divis" right="$" hadjustment="-0.2500000000" />
+<kerning left="T" right="Ó " hadjustment="-2.5000000000" />
+<kerning left="Õ" right="…" hadjustment="-3.5000000000" />
 <kerning left="À" right="Q" hadjustment="-2.5000000000" />
+<kerning left="V" right="C" hadjustment="-2.5000000000" />
 <kerning left="A" right="Ÿ" hadjustment="-7.2500000000" />
 <kerning left="À" right="S" hadjustment="-1.0000000000" />
+<kerning left="$" right="Ý" hadjustment="-2.5000000000" />
 <kerning left="À" right="T" hadjustment="-7.7500000000" />
+<kerning left="F" right="," hadjustment="-4.0000000000" />
+<kerning left="Ø" right="‘" hadjustment="-0.7500000000" />
 <kerning left="À" right="U" hadjustment="-3.0000000000" />
 <kerning left="divis" right="À" hadjustment="-2.5000000000" />
+<kerning left="V" right="G" hadjustment="-2.5000000000" />
 <kerning left="À" right="V" hadjustment="-7.0000000000" />
 <kerning left="divis" right="Á" hadjustment="-2.5000000000" />
+<kerning left="F" right="." hadjustment="-4.0000000000" />
+<kerning left="G" right="Ý" hadjustment="-2.2500000000" />
 <kerning left="À" right="W" hadjustment="-3.0000000000" />
 <kerning left="divis" right="Â" hadjustment="-2.5000000000" />
-<kerning left="Š" right="À" hadjustment="-1.0000000000" />
+<kerning left="Ü" right="…" hadjustment="-4.0000000000" />
 <kerning left="divis" right="Ã" hadjustment="-2.5000000000" />
-<kerning left="Š" right="Á" hadjustment="-1.0000000000" />
+<kerning left="Š" right="À" hadjustment="-1.0000000000" />
+<kerning left="V" right="J" hadjustment="-6.5000000000" />
+<kerning left="Ø" right="“" hadjustment="-0.7500000000" />
+<kerning left="Û" right="Ž" hadjustment="-0.2500000000" />
 <kerning left="À" right="Y" hadjustment="-7.2500000000" />
 <kerning left="divis" right="Ä" hadjustment="-2.5000000000" />
-<kerning left="Š" right="Â" hadjustment="-1.0000000000" />
+<kerning left="Š" right="Á" hadjustment="-1.0000000000" />
+<kerning left="Ø" right="”" hadjustment="-1.2500000000" />
 <kerning left="À" right="¥" hadjustment="-7.2500000000" />
-<kerning left="‘" right="A" hadjustment="-9.0000000000" />
 <kerning left="divis" right="Å" hadjustment="-2.5000000000" />
+<kerning left="Š" right="Â" hadjustment="-1.0000000000" />
+<kerning left="‘" right="A" hadjustment="-9.0000000000" />
 <kerning left="f" right="f" hadjustment="-2.0000000000" />
 <kerning left="Š" right="Ã" hadjustment="-1.0000000000" />
+<kerning left="É" right="$" hadjustment="-0.2500000000" />
+<kerning left="Ý" right="Š" hadjustment="-2.0000000000" />
 <kerning left="Š" right="Ä" hadjustment="-1.0000000000" />
-<kerning left="Š" right="Å" hadjustment="-1.0000000000" />
+<kerning left="‘" right="C" hadjustment="-1.7500000000" />
+<kerning left="Š" right="¥" hadjustment="-2.5000000000" />
 <kerning left="À" right="Ç" hadjustment="-2.5000000000" />
+<kerning left="Š" right="Å" hadjustment="-1.0000000000" />
+<kerning left="V" right="O" hadjustment="-2.5000000000" />
+<kerning left="Ž" right="Š" hadjustment="-1.0000000000" />
 <kerning left="Ù" right="A" hadjustment="-3.0000000000" />
+<kerning left="E" right="Ó " hadjustment="-1.0000000000" />
+<kerning left="Ô" right="‘" hadjustment="-0.7500000000" />
+<kerning left="V" right="Q" hadjustment="-2.5000000000" />
+<kerning left="‘" right="G" hadjustment="-1.7500000000" />
+<kerning left="V" right="S" hadjustment="-1.5000000000" />
+<kerning left="‚" right="Ÿ" hadjustment="-6.0000000000" />
+<kerning left="À" right="­" hadjustment="-2.5000000000" />
+<kerning left="W" right="Ó " hadjustment="-0.7500000000" />
+<kerning left="Ø" right="…" hadjustment="-3.5000000000" />
+<kerning left="B" right="Ÿ" hadjustment="-2.7500000000" />
+<kerning left="Ê" right="divis" hadjustment="0.0000000000" />
+<kerning left="‘" right="J" hadjustment="-6.0000000000" />
+<kerning left="Ô" right="“" hadjustment="-0.7500000000" />
+<kerning left="Ô" right="”" hadjustment="-1.2500000000" />
+<kerning left="Ó " right="&apos;" hadjustment="-1.0000000000" />
+<kerning left="R" right="divis" hadjustment="-0.5000000000" />
 <kerning left="&apos;" right="À" hadjustment="-9.0000000000" />
+<kerning left="L" right="Ó " hadjustment="-2.5000000000" />
+<kerning left="‐" right="A" hadjustment="-2.5000000000" />
 <kerning left="&apos;" right="Á" hadjustment="-9.0000000000" />
-<kerning left="&apos;" right="Â" hadjustment="-9.0000000000" />
+<kerning left="F" right="?" hadjustment="0.0000000000" />
+<kerning left="Ù" right="J" hadjustment="-0.5000000000" />
 <kerning left="Á" right="$" hadjustment="-1.0000000000" />
 <kerning left="À" right="Ò" hadjustment="-2.5000000000" />
-<kerning left="&apos;" right="Ã" hadjustment="-9.0000000000" />
+<kerning left="&apos;" right="Â" hadjustment="-9.0000000000" />
+<kerning left="B" right="Ž" hadjustment="-0.5000000000" />
+<kerning left="Ü" right="Ž" hadjustment="-0.2500000000" />
 <kerning left="À" right="Ó" hadjustment="-2.5000000000" />
+<kerning left="&apos;" right="Ã" hadjustment="-9.0000000000" />
 <kerning left="J" right="À" hadjustment="-2.0000000000" />
 <kerning left="F" right="A" hadjustment="-5.0000000000" />
+<kerning left="“" right="Š" hadjustment="-0.5000000000" />
 <kerning left="Á" right="¥" hadjustment="-7.2500000000" />
-<kerning left="&apos;" right="Ä" hadjustment="-9.0000000000" />
 <kerning left="À" right="Ô" hadjustment="-2.5000000000" />
+<kerning left="&apos;" right="Ä" hadjustment="-9.0000000000" />
 <kerning left="J" right="Á" hadjustment="-2.0000000000" />
-<kerning left="&apos;" right="Å" hadjustment="-9.0000000000" />
+<kerning left="Š" right="Ò" hadjustment="0.0000000000" />
+<kerning left="Ó " right="," hadjustment="-4.2500000000" />
 <kerning left="Á" right="&apos;" hadjustment="-9.0000000000" />
 <kerning left="À" right="Õ" hadjustment="-2.5000000000" />
+<kerning left="&apos;" right="Å" hadjustment="-9.0000000000" />
 <kerning left="J" right="Â" hadjustment="-2.0000000000" />
+<kerning left="F" right="C" hadjustment="-1.0000000000" />
+<kerning left="D" right="Š" hadjustment="0.0000000000" />
 <kerning left="À" right="Ö" hadjustment="-2.5000000000" />
-<kerning left="J" right="Ã" hadjustment="-2.0000000000" />
 <kerning left="divis" right="A" hadjustment="-2.5000000000" />
+<kerning left="J" right="Ã" hadjustment="-2.0000000000" />
+<kerning left="Š" right="Ô" hadjustment="0.0000000000" />
+<kerning left="Ó " right="." hadjustment="-3.5000000000" />
+<kerning left="." right="space" hadjustment="0.0000000000" />
+<kerning left="‘" right="S" hadjustment="-0.5000000000" />
 <kerning left="Á" right="Ç" hadjustment="-2.5000000000" />
 <kerning left="J" right="Ä" hadjustment="-2.0000000000" />
+<kerning left="&apos;" right="Ç" hadjustment="-1.0000000000" />
+<kerning left="S" right="Ó " hadjustment="0.0000000000" />
+<kerning left="Š" right="Õ" hadjustment="0.0000000000" />
+<kerning left="Ó " right="‘" hadjustment="-0.7500000000" />
+<kerning left="Ô" right="…" hadjustment="-3.5000000000" />
 <kerning left="À" right="Ø" hadjustment="-2.5000000000" />
 <kerning left="J" right="Å" hadjustment="-2.0000000000" />
+<kerning left="Š" right="Ö" hadjustment="0.0000000000" />
 <kerning left="À" right="Ù" hadjustment="-3.0000000000" />
+<kerning left="F" right="G" hadjustment="-1.0000000000" />
 <kerning left="À" right="Ú" hadjustment="-3.0000000000" />
+<kerning left="Š" right="Ø" hadjustment="0.0000000000" />
+<kerning left="Ù" right="S" hadjustment="0.0000000000" />
 <kerning left="À" right="Û" hadjustment="-3.0000000000" />
+<kerning left="Ó " right="“" hadjustment="-0.7500000000" />
+<kerning left="Á" right="­" hadjustment="-2.5000000000" />
 <kerning left="Á" right="." hadjustment="0.0000000000" />
 <kerning left="À" right="Ü" hadjustment="-3.0000000000" />
+<kerning left="F" right="J" hadjustment="-4.0000000000" />
+<kerning left="Ó " right="”" hadjustment="-1.2500000000" />
 <kerning left="À" right="Ý" hadjustment="-7.2500000000" />
+<kerning left="C" right="Ÿ" hadjustment="-2.2500000000" />
+<kerning left="Š" right="Ó " hadjustment="0.0000000000" />
+<kerning left="." right="$" hadjustment="0.0000000000" />
+<kerning left="Z" right="Ó " hadjustment="-1.5000000000" />
+<kerning left="Û" right="…" hadjustment="-4.0000000000" />
+<kerning left="divis" right="J" hadjustment="0.0000000000" />
+<kerning left="Š" right="Ý" hadjustment="-2.5000000000" />
+<kerning left="Ù" right="X" hadjustment="-0.2500000000" />
+<kerning left="É" right="?" hadjustment="0.0000000000" />
+<kerning left="F" right="O" hadjustment="-1.0000000000" />
+<kerning left="Ù" right="Z" hadjustment="-0.2500000000" />
 <kerning left="Á" right="Ò" hadjustment="-2.5000000000" />
+<kerning left="C" right="Ž" hadjustment="-0.7500000000" />
+<kerning left="&apos;" right="Ò" hadjustment="-1.0000000000" />
 <kerning left="Á" right="Ó" hadjustment="-2.5000000000" />
+<kerning left="F" right="Q" hadjustment="-1.0000000000" />
 <kerning left="Â" right="¥" hadjustment="-7.2500000000" />
 <kerning left="Á" right="Ô" hadjustment="-2.5000000000" />
+<kerning left="É" right="C" hadjustment="-1.0000000000" />
+<kerning left="&apos;" right="Ô" hadjustment="-1.0000000000" />
 <kerning left="Á" right="Õ" hadjustment="-2.5000000000" />
+<kerning left="E" right="Š" hadjustment="-0.2500000000" />
+<kerning left="F" right="S" hadjustment="-0.5000000000" />
+<kerning left="&apos;" right="Õ" hadjustment="-1.0000000000" />
+<kerning left="Ó " right="…" hadjustment="-3.5000000000" />
 <kerning left="Á" right="Ö" hadjustment="-2.5000000000" />
+<kerning left="&apos;" right="Ö" hadjustment="-1.0000000000" />
 <kerning left="Â" right="Ç" hadjustment="-2.5000000000" />
+<kerning left="Ó " right="?" hadjustment="-1.0000000000" />
+<kerning left="A" right="‐" hadjustment="-2.5000000000" />
 <kerning left="Á" right="Ø" hadjustment="-2.5000000000" />
+<kerning left="É" right="G" hadjustment="-1.0000000000" />
+<kerning left="&apos;" right="Ø" hadjustment="-1.0000000000" />
+<kerning left="divis" right="S" hadjustment="-0.2500000000" />
+<kerning left="W" right="," hadjustment="-4.0000000000" />
 <kerning left="Ó " right="A" hadjustment="-2.5000000000" />
+<kerning left="A" right="‑" hadjustment="-2.5000000000" />
 <kerning left="Á" right="Ù" hadjustment="-3.0000000000" />
+<kerning left="V" right="Ó " hadjustment="-2.5000000000" />
+<kerning left="divis" right="T" hadjustment="-5.0000000000" />
+<kerning left="A" right="‒" hadjustment="-2.5000000000" />
 <kerning left="Á" right="Ú" hadjustment="-3.0000000000" />
-<kerning left="Á" right="Û" hadjustment="-3.0000000000" />
+<kerning left="K" right="Ç" hadjustment="-4.0000000000" />
+<kerning left="W" right="." hadjustment="-4.0000000000" />
 <kerning left="A" right="–" hadjustment="-2.5000000000" />
-<kerning left="Á" right="Ü" hadjustment="-3.0000000000" />
+<kerning left="Á" right="Û" hadjustment="-3.0000000000" />
+<kerning left="É" right="J" hadjustment="0.0000000000" />
+<kerning left="divis" right="V" hadjustment="-2.5000000000" />
+<kerning left="Â" right="­" hadjustment="-2.5000000000" />
 <kerning left="A" right="—" hadjustment="-2.5000000000" />
-<kerning left="Á" right="?" hadjustment="-6.5000000000" />
+<kerning left="Á" right="Ü" hadjustment="-3.0000000000" />
+<kerning left="É" right="divis" hadjustment="0.0000000000" />
+<kerning left="$" right="–" hadjustment="-0.2500000000" />
+<kerning left="divis" right="W" hadjustment="-0.5000000000" />
 <kerning left="Á" right="Ý" hadjustment="-7.2500000000" />
+<kerning left="Á" right="?" hadjustment="-6.5000000000" />
+<kerning left="D" right="Ÿ" hadjustment="-2.7500000000" />
+<kerning left="$" right="—" hadjustment="-0.2500000000" />
+<kerning left="divis" right="X" hadjustment="-3.0000000000" />
 </font>
