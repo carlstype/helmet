@@ -9,7 +9,7 @@
 <italic>false</italic>
 <full_name>Helmet Regular</full_name>
 <unique_identifier>Helmet-Regular</unique_identifier>
-<version>0.2</version>
+<version>1.0</version>
 <description></description>
 <copyright>Copyright (c) 2017, Carl Enlund</copyright>
 <license>The Font Software is licensed under the SIL Open Font License, Version 1.1.</license>
@@ -4411,8 +4411,8 @@
 <kerning left="‘" right="s" hadjustment="-2.0000000000" />
 <kerning left="D" right="‘" hadjustment="-0.7500000000" />
 <kerning left="V" right="Œ" hadjustment="-2.5000000000" />
-<kerning left="¢" right="quote" hadjustment="-2.0000000000" />
 <kerning left="Á" right="quote" hadjustment="-9.0000000000" />
+<kerning left="¢" right="quote" hadjustment="-2.0000000000" />
 <kerning left="ë" right="ž" hadjustment="-1.2500000000" />
 <kerning left="D" right="’" hadjustment="-1.2500000000" />
 <kerning left="ó" right="&apos;" hadjustment="-2.0000000000" />
@@ -4517,8 +4517,8 @@
 <kerning left="¥" right="À" hadjustment="-7.2500000000" />
 <kerning left="Ë" right="J" hadjustment="0.0000000000" />
 <kerning left="Ó" right="T" hadjustment="-2.5000000000" />
-<kerning left="Ä" right="¢" hadjustment="-1.0000000000" />
 <kerning left="¥" right="¢" hadjustment="-4.7500000000" />
+<kerning left="Ä" right="¢" hadjustment="-1.0000000000" />
 <kerning left="¥" right="Á" hadjustment="-7.2500000000" />
 <kerning left="¥" right="Â" hadjustment="-7.2500000000" />
 <kerning left="Ó" right="V" hadjustment="-2.5000000000" />
@@ -4578,8 +4578,8 @@
 <kerning left="Ä" right="Ò" hadjustment="-2.5000000000" />
 <kerning left="Ç" right="W" hadjustment="-0.2500000000" />
 <kerning left="ã" right="z" hadjustment="-0.2500000000" />
-<kerning left="Ä" right="Ó" hadjustment="-2.5000000000" />
 <kerning left="¥" right="Ó" hadjustment="-2.7500000000" />
+<kerning left="Ä" right="Ó" hadjustment="-2.5000000000" />
 <kerning left="Š" right="À" hadjustment="-1.0000000000" />
 <kerning left="Ç" right="X" hadjustment="-1.5000000000" />
 <kerning left="ß" right="v" hadjustment="-3.0000000000" />
@@ -4649,30 +4649,30 @@
 <kerning left="R" right="ã" hadjustment="-0.7500000000" />
 <kerning left="Å" right="–" hadjustment="-2.5000000000" />
 <kerning left="R" right="ä" hadjustment="-0.7500000000" />
-<kerning left="Ä" right="à" hadjustment="-0.5000000000" />
 <kerning left="¥" right="à" hadjustment="-4.2500000000" />
+<kerning left="Ä" right="à" hadjustment="-0.5000000000" />
 <kerning left="Å" right="—" hadjustment="-2.5000000000" />
 <kerning left="R" right="å" hadjustment="-0.7500000000" />
-<kerning left="Ä" right="á" hadjustment="-0.5000000000" />
 <kerning left="¥" right="á" hadjustment="-4.2500000000" />
+<kerning left="Ä" right="á" hadjustment="-0.5000000000" />
 <kerning left="Ã" right="a" hadjustment="-0.5000000000" />
-<kerning left="Ä" right="â" hadjustment="-0.5000000000" />
 <kerning left="¥" right="â" hadjustment="-4.2500000000" />
+<kerning left="Ä" right="â" hadjustment="-0.5000000000" />
 <kerning left="ö" right="ý" hadjustment="-1.0000000000" />
 <kerning left="R" right="ç" hadjustment="-1.0000000000" />
-<kerning left="Ä" right="ã" hadjustment="-0.5000000000" />
 <kerning left="¥" right="ã" hadjustment="-4.2500000000" />
+<kerning left="Ä" right="ã" hadjustment="-0.5000000000" />
 <kerning left="Ã" right="c" hadjustment="-1.0000000000" />
 <kerning left="R" right="è" hadjustment="-1.0000000000" />
-<kerning left="Ä" right="ä" hadjustment="-0.5000000000" />
 <kerning left="¥" right="ä" hadjustment="-4.2500000000" />
+<kerning left="Ä" right="ä" hadjustment="-0.5000000000" />
 <kerning left="$" right="…" hadjustment="-0.2500000000" />
 <kerning left="Å" right="‘" hadjustment="-8.0000000000" />
 <kerning left="ö" right="ÿ" hadjustment="-1.0000000000" />
 <kerning left="Ã" right="d" hadjustment="-1.0000000000" />
 <kerning left="R" right="é" hadjustment="-1.0000000000" />
-<kerning left="Ä" right="å" hadjustment="-0.5000000000" />
 <kerning left="¥" right="å" hadjustment="-4.2500000000" />
+<kerning left="Ä" right="å" hadjustment="-0.5000000000" />
 <kerning left="Š" right="Ò" hadjustment="0.0000000000" />
 <kerning left="Å" right="’" hadjustment="-9.0000000000" />
 <kerning left="Ã" right="e" hadjustment="-1.0000000000" />
@@ -4682,8 +4682,8 @@
 <kerning left="Ã" right="f" hadjustment="-2.5000000000" />
 <kerning left="Ó" right="z" hadjustment="-1.0000000000" />
 <kerning left="R" right="ë" hadjustment="-1.0000000000" />
-<kerning left="Ä" right="ç" hadjustment="-1.0000000000" />
 <kerning left="¥" right="ç" hadjustment="-4.7500000000" />
+<kerning left="Ä" right="ç" hadjustment="-1.0000000000" />
 <kerning left="Š" right="Ô" hadjustment="0.0000000000" />
 <kerning left="Ã" right="g" hadjustment="-1.0000000000" />
 <kerning left="Ë" right="q" hadjustment="-0.5000000000" />
@@ -5610,8 +5610,8 @@
 <kerning left="x" right="à" hadjustment="-1.0000000000" />
 <kerning left="F" right="Æ" hadjustment="-9.0000000000" />
 <kerning left="ñ" right="quote" hadjustment="-2.0000000000" />
-<kerning left="Ä" right="a" hadjustment="-0.5000000000" />
 <kerning left="¥" right="a" hadjustment="-4.2500000000" />
+<kerning left="Ä" right="a" hadjustment="-0.5000000000" />
 <kerning left="Ø" right="z" hadjustment="-1.0000000000" />
 <kerning left="x" right="á" hadjustment="-1.0000000000" />
 <kerning left="F" right="Ç" hadjustment="-1.0000000000" />
@@ -5619,8 +5619,8 @@
 <kerning left="o" right="ž" hadjustment="-1.2500000000" />
 <kerning left="x" right="â" hadjustment="-1.0000000000" />
 <kerning left="Ž" right="–" hadjustment="-2.0000000000" />
-<kerning left="Ä" right="c" hadjustment="-1.0000000000" />
 <kerning left="¥" right="c" hadjustment="-4.7500000000" />
+<kerning left="Ä" right="c" hadjustment="-1.0000000000" />
 <kerning left="x" right="ã" hadjustment="-1.0000000000" />
 <kerning left="Ž" right="—" hadjustment="-2.0000000000" />
 <kerning left="ë" right="…" hadjustment="-0.5000000000" />
