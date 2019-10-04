@@ -2,7 +2,7 @@
 
 Helmet is a neo-grotesque display typeface, currently with a single font. It takes inspiration from Swiss classics like Helvetica and Univers but plays with proportions such as width and x-height to create a unique look and feel. Licensed under the [SIL Open Font License](http://scripts.sil.org/OFL_web), the font is available for free both for personal and commercial use.
 
-**[Download latest release](https://github.com/carlenlund/helmet/releases/latest)**
+**[Download Helmet](https://github.com/carlenlund/helmet/releases/download/1.000/helmet-neue-1.000.zip)**
 
 ![](images/helmet-1.png)
 
