@@ -1,11 +1,11 @@
 # Helmet
 
-Helmet is a neo-grotesque display typeface, currently with a single font. It takes inspiration from Swiss classics like Helvetica and Univers but plays with proportions such as width and x-height to create a unique look and feel. Licensed under the [SIL Open Font License](http://scripts.sil.org/OFL_web), the font is available for free both for personal and commercial use.
+Helmet is a neo-grotesque display typeface, inspired by Swiss classics like Helvetica and Univers. The typeface plays with vertical and horizontal proportions to create a unique look, which suits both large and small text. Licensed under the SIL Open Font License, Helmet is free both for personal and commercial use.
 
-**[Download Helmet](https://github.com/carlenlund/helmet/releases/download/1.000/helmet-neue-1.000.zip)**
+**[Download Helmet Neue](https://github.com/carlenlund/helmet/releases/download/1.000/helmet-neue-1.000.zip)**
 
 ![](images/helmet-1.png)
 
-Helmet is designed in the open source font editor [Birdfont](https://birdfont.org/). Birdfont is far from perfect but has worked out all right for this single-font typeface.
+Helmet Neue is a new and refined version of the typeface, with cleaner glyph quality and an expanded character set. This version also includes a set of tabular and a set of old-style figures. The tabular figures can be enabled in CSS with `font-variant-numeric: tabular-nums` and the old-style figures with `font-variant-numeric: oldstyle-nums`.
 
-Helmet Neue is a refined version of the typeface with cleaner glyph quality and an expanded character set. This version also includes a set of tabular and a set of old-style figures.
+Supported languages: Afrikaans, Albanian, Basque, Bosnian, Catalan, Croatian, Czech, Danish, Dutch, English, Estonian, Faroese, Filipino, Finnish, French, Galician, German, Hungarian, Icelandic, Indonesian, Irish, Italian, Latvian, Lithuanian, Malay, Norwegian Bokmål, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish, Swahili, Swedish, Turkish, Welsh and Zulu.
